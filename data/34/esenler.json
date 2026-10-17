@@ -1,0 +1,156 @@
+[
+ {
+  "name": "15 Temmuz Millet Bahçesi",
+  "district": "Esenler",
+  "type": "Park / Bahçe",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Esenler ilçesinde yer alan park / bahçe.",
+  "mapQuery": "15 Temmuz Millet Bahçesi, Esenler, İstanbul",
+  "osm": "way/846897431"
+ },
+ {
+  "name": "Atatürk Anıtı",
+  "district": "Esenler",
+  "type": "Anıt",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Esenler ilçesinde yer alan anıt.",
+  "mapQuery": "Atatürk Anıtı, Esenler, İstanbul",
+  "osm": "node/4303108295"
+ },
+ {
+  "name": "Atışalanı Çeşmesi",
+  "district": "Esenler",
+  "type": "Çeşme",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Esenler ilçesinde yer alan çeşme.",
+  "mapQuery": "Atışalanı Çeşmesi, Esenler, İstanbul",
+  "osm": "way/1408517425"
+ },
+ {
+  "name": "Avasköy Kemeri",
+  "district": "Esenler",
+  "type": "Tarihî yer",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Mimar Sinan",
+  "story": "Esenler ilçesinde yer alan tarihî yer.",
+  "mapQuery": "Avasköy Kemeri, Esenler, İstanbul",
+  "osm": "way/967006761"
+ },
+ {
+  "name": "Beylik Kubbesi",
+  "district": "Esenler",
+  "type": "Tarihî yapı",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Esenler ilçesinde yer alan tarihî yapı.",
+  "mapQuery": "Beylik Kubbesi, Esenler, İstanbul",
+  "osm": "way/1454992412"
+ },
+ {
+  "name": "Davutpaşa Kışlası Mesciti",
+  "district": "Esenler",
+  "type": "Cami",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Esenler ilçesinde yer alan cami.",
+  "mapQuery": "Davutpaşa Kışlası Mesciti, Esenler, İstanbul",
+  "osm": "way/525244829"
+ },
+ {
+  "name": "Esenler Bölge Parkı",
+  "district": "Esenler",
+  "type": "Park / Bahçe",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Esenler ilçesinde yer alan park / bahçe.",
+  "mapQuery": "Esenler Bölge Parkı, Esenler, İstanbul",
+  "osm": "way/468653131"
+ },
+ {
+  "name": "Mazul Kemer",
+  "district": "Esenler",
+  "type": "Tarihî yer",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Esenler ilçesinde yer alan tarihî yer.",
+  "mapQuery": "Mazul Kemer, Esenler, İstanbul",
+  "osm": "way/969480621"
+ },
+ {
+  "name": "Misafirhane",
+  "district": "Esenler",
+  "type": "Tarihî yer",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Esenler ilçesinde yer alan tarihî yer.",
+  "mapQuery": "Misafirhane, Esenler, İstanbul",
+  "osm": "way/909265479"
+ },
+ {
+  "name": "Ortabahçe",
+  "district": "Esenler",
+  "type": "Park / Bahçe",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Esenler ilçesinde yer alan park / bahçe.",
+  "mapQuery": "Ortabahçe, Esenler, İstanbul",
+  "osm": "way/625567217"
+ },
+ {
+  "name": "Otağ-ı Hümayun",
+  "district": "Esenler",
+  "type": "Tarihî yer",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Esenler ilçesinde yer alan tarihî yer.",
+  "mapQuery": "Otağ-ı Hümayun, Esenler, İstanbul",
+  "osm": "way/664813158"
+ },
+ {
+  "name": "Topkule Tepesi",
+  "district": "Esenler",
+  "type": "Doğa",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Esenler ilçesinde yer alan doğa.",
+  "mapQuery": "Topkule Tepesi, Esenler, İstanbul",
+  "osm": "node/8639654443"
+ },
+ {
+  "name": "Şah Anıtı",
+  "district": "Esenler",
+  "type": "Anıt",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Esenler ilçesinde yer alan anıt.",
+  "mapQuery": "Şah Anıtı, Esenler, İstanbul",
+  "osm": "node/10840166611"
+ },
+ {
+  "name": "Şah Tepesi",
+  "district": "Esenler",
+  "type": "Doğa",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Esenler ilçesinde yer alan doğa.",
+  "mapQuery": "Şah Tepesi, Esenler, İstanbul",
+  "osm": "node/9596497500"
+ }
+]

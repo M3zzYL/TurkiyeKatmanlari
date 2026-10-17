@@ -1,0 +1,90 @@
+[
+ {
+  "name": "Atatürk Heykeli",
+  "district": "Beylikdüzü",
+  "type": "Tarihî yer",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Beylikdüzü ilçesinde yer alan tarihî yer.",
+  "mapQuery": "Atatürk Heykeli, Beylikdüzü, İstanbul",
+  "osm": "node/12143696002"
+ },
+ {
+  "name": "Atatürk Silüeti",
+  "district": "Beylikdüzü",
+  "type": "Tarihî yer",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Beylikdüzü ilçesinde yer alan tarihî yer.",
+  "mapQuery": "Atatürk Silüeti, Beylikdüzü, İstanbul",
+  "osm": "node/9385742259"
+ },
+ {
+  "name": "Batı İstanbul Sergi Salonu",
+  "district": "Beylikdüzü",
+  "type": "Galeri",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Beylikdüzü ilçesinde yer alan galeri.",
+  "mapQuery": "Batı İstanbul Sergi Salonu, Beylikdüzü, İstanbul",
+  "osm": "node/7654975432"
+ },
+ {
+  "name": "Beylikdüzü Gürpınar Sahili Halk Plajı",
+  "district": "Beylikdüzü",
+  "type": "Plaj",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Beylikdüzü ilçesinde yer alan plaj.",
+  "mapQuery": "Beylikdüzü Gürpınar Sahili Halk Plajı, Beylikdüzü, İstanbul",
+  "osm": "way/1015679681"
+ },
+ {
+  "name": "Haramidere Köprüsü",
+  "district": "Beylikdüzü",
+  "type": "Tarihî yer",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Mimar Sinan",
+  "story": "Beylikdüzü ilçesinde yer alan tarihî yer.",
+  "mapQuery": "Haramidere Köprüsü, Beylikdüzü, İstanbul",
+  "osm": "way/984958429"
+ },
+ {
+  "name": "Kıbrıs Anıtı",
+  "district": "Beylikdüzü",
+  "type": "Tarihî yer",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Beylikdüzü ilçesinde yer alan tarihî yer.",
+  "mapQuery": "Kıbrıs Anıtı, Beylikdüzü, İstanbul",
+  "osm": "node/13252224158"
+ },
+ {
+  "name": "McPro Productions",
+  "district": "Beylikdüzü",
+  "type": "Seyir noktası",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Beylikdüzü ilçesinde yer alan seyir noktası.",
+  "mapQuery": "McPro Productions, Beylikdüzü, İstanbul",
+  "osm": "node/4318815490"
+ },
+ {
+  "name": "West İstanbul Marina Plajı",
+  "district": "Beylikdüzü",
+  "type": "Plaj",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Beylikdüzü ilçesinde yer alan plaj.",
+  "mapQuery": "West İstanbul Marina Plajı, Beylikdüzü, İstanbul",
+  "osm": "way/1015679682"
+ }
+]

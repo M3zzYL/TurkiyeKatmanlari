@@ -1,0 +1,68 @@
+[
+ {
+  "name": "ATATÜRK Heykeli",
+  "district": "Sultanbeyli",
+  "type": "Anıt",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Sultanbeyli ilçesinde yer alan anıt.",
+  "mapQuery": "ATATÜRK Heykeli, Sultanbeyli, İstanbul",
+  "osm": "node/4831172762"
+ },
+ {
+  "name": "Aycan turizm",
+  "district": "Sultanbeyli",
+  "type": "Gezi noktası",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Sultanbeyli ilçesinde yer alan gezi noktası.",
+  "mapQuery": "Aycan turizm, Sultanbeyli, İstanbul",
+  "osm": "node/5329335403"
+ },
+ {
+  "name": "Aydos (Aetos) Kalesi",
+  "district": "Sultanbeyli",
+  "type": "Arkeolojik alan / Kalıntı",
+  "era": "ant",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Sultanbeyli ilçesinde yer alan arkeolojik alan / kalıntı.",
+  "mapQuery": "Aydos (Aetos) Kalesi, Sultanbeyli, İstanbul",
+  "osm": "way/412141123"
+ },
+ {
+  "name": "Aydos Yangın Gözetleme Kulesi",
+  "district": "Sultanbeyli",
+  "type": "Kule",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Sultanbeyli ilçesinde yer alan kule.",
+  "mapQuery": "Aydos Yangın Gözetleme Kulesi, Sultanbeyli, İstanbul",
+  "osm": "node/8981916353"
+ },
+ {
+  "name": "Sultanbeyli Gölet",
+  "district": "Sultanbeyli",
+  "type": "Park / Bahçe",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Sultanbeyli ilçesinde yer alan park / bahçe.",
+  "mapQuery": "Sultanbeyli Gölet, Sultanbeyli, İstanbul",
+  "osm": "way/305826759"
+ },
+ {
+  "name": "Zirve Tepesi",
+  "district": "Sultanbeyli",
+  "type": "Doğa",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Sultanbeyli ilçesinde yer alan doğa.",
+  "mapQuery": "Zirve Tepesi, Sultanbeyli, İstanbul",
+  "osm": "node/14177371186"
+ }
+]

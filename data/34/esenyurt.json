@@ -1,0 +1,68 @@
+[
+ {
+  "name": "Ancient Roman Ruins",
+  "district": "Esenyurt",
+  "type": "Arkeolojik alan / Kalıntı",
+  "era": "ant",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Esenyurt ilçesinde yer alan arkeolojik alan / kalıntı.",
+  "mapQuery": "Ancient Roman Ruins, Esenyurt, İstanbul",
+  "osm": "node/2278535412"
+ },
+ {
+  "name": "Antik Roma Kalıntıları",
+  "district": "Esenyurt",
+  "type": "Arkeolojik alan / Kalıntı",
+  "era": "ant",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Esenyurt ilçesinde yer alan arkeolojik alan / kalıntı.",
+  "mapQuery": "Antik Roma Kalıntıları, Esenyurt, İstanbul",
+  "osm": "way/1125382456"
+ },
+ {
+  "name": "Baz İstasyonu",
+  "district": "Esenyurt",
+  "type": "Kule",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Esenyurt ilçesinde yer alan kule.",
+  "mapQuery": "Baz İstasyonu, Esenyurt, İstanbul",
+  "osm": "node/11688942667"
+ },
+ {
+  "name": "Pelit Çıkolata Müzesi",
+  "district": "Esenyurt",
+  "type": "Gezi noktası",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Esenyurt ilçesinde yer alan gezi noktası.",
+  "mapQuery": "Pelit Çıkolata Müzesi, Esenyurt, İstanbul",
+  "osm": "node/6811908186"
+ },
+ {
+  "name": "Torium Sanat Galerisi",
+  "district": "Esenyurt",
+  "type": "Galeri",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Esenyurt ilçesinde yer alan galeri.",
+  "mapQuery": "Torium Sanat Galerisi, Esenyurt, İstanbul",
+  "osm": "node/11577257333"
+ },
+ {
+  "name": "tab ilaç",
+  "district": "Esenyurt",
+  "type": "Hisar / Kale",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Esenyurt ilçesinde yer alan hisar / kale.",
+  "mapQuery": "tab ilaç, Esenyurt, İstanbul",
+  "osm": "node/9708710318"
+ }
+]

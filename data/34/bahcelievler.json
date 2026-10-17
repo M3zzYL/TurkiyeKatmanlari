@@ -1,0 +1,46 @@
+[
+ {
+  "name": "Atatürk Anıtı",
+  "district": "Bahçelievler",
+  "type": "Anıt",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Bahçelievler ilçesinde yer alan anıt.",
+  "mapQuery": "Atatürk Anıtı, Bahçelievler, İstanbul",
+  "osm": "node/4330819713"
+ },
+ {
+  "name": "Siyavuşpaşa Kasrı",
+  "district": "Bahçelievler",
+  "type": "Müze",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Bahçelievler ilçesinde yer alan müze.",
+  "mapQuery": "Siyavuşpaşa Kasrı, Bahçelievler, İstanbul",
+  "osm": "node/1026149721"
+ },
+ {
+  "name": "Çoban Çeşmesi",
+  "district": "Bahçelievler",
+  "type": "Anıt",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Bahçelievler ilçesinde yer alan anıt.",
+  "mapQuery": "Çoban Çeşmesi, Bahçelievler, İstanbul",
+  "osm": "node/11345051694"
+ },
+ {
+  "name": "Çobançeşme Köprüsü",
+  "district": "Bahçelievler",
+  "type": "Köprü",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Bahçelievler ilçesinde yer alan köprü.",
+  "mapQuery": "Çobançeşme Köprüsü, Bahçelievler, İstanbul",
+  "osm": "way/1114885979"
+ }
+]

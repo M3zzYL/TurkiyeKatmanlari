@@ -1,0 +1,68 @@
+[
+ {
+  "name": "Abdüsselam Camii",
+  "district": "Küçükçekmece",
+  "type": "Cami",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Küçükçekmece ilçesinde yer alan cami.",
+  "mapQuery": "Abdüsselam Camii, Küçükçekmece, İstanbul",
+  "osm": "way/301906862"
+ },
+ {
+  "name": "Kibrithane",
+  "district": "Küçükçekmece",
+  "type": "Tarihî yapı",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Küçükçekmece ilçesinde yer alan tarihî yapı.",
+  "mapQuery": "Kibrithane, Küçükçekmece, İstanbul",
+  "osm": "way/1060935448"
+ },
+ {
+  "name": "Menekşe Deresi Köprüsü",
+  "district": "Küçükçekmece",
+  "type": "Köprü",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Küçükçekmece ilçesinde yer alan köprü.",
+  "mapQuery": "Menekşe Deresi Köprüsü, Küçükçekmece, İstanbul",
+  "osm": "way/1409740875"
+ },
+ {
+  "name": "Menekşe Plajı",
+  "district": "Küçükçekmece",
+  "type": "Plaj",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Küçükçekmece ilçesinde yer alan plaj.",
+  "mapQuery": "Menekşe Plajı, Küçükçekmece, İstanbul",
+  "osm": "way/668595024"
+ },
+ {
+  "name": "Menekşe Plajı Sahil Parkı Önü",
+  "district": "Küçükçekmece",
+  "type": "Plaj",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Küçükçekmece ilçesinde yer alan plaj.",
+  "mapQuery": "Menekşe Plajı Sahil Parkı Önü, Küçükçekmece, İstanbul",
+  "osm": "way/1015679683"
+ },
+ {
+  "name": "Papaz Köprüsü",
+  "district": "Küçükçekmece",
+  "type": "Köprü",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Küçükçekmece ilçesinde yer alan köprü.",
+  "mapQuery": "Papaz Köprüsü, Küçükçekmece, İstanbul",
+  "osm": "way/1336466506"
+ }
+]

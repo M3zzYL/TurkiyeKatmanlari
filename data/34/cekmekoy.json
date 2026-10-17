@@ -1,0 +1,200 @@
+[
+ {
+  "name": "Alem Dağı",
+  "district": "Çekmeköy",
+  "type": "Doğa",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Çekmeköy ilçesinde yer alan doğa.",
+  "mapQuery": "Alem Dağı, Çekmeköy, İstanbul",
+  "osm": "node/2622458156"
+ },
+ {
+  "name": "Alemdağ Vakıf Cami",
+  "district": "Çekmeköy",
+  "type": "Cami",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Çekmeköy ilçesinde yer alan cami.",
+  "mapQuery": "Alemdağ Vakıf Cami, Çekmeköy, İstanbul",
+  "osm": "way/458980047"
+ },
+ {
+  "name": "Atatürk Heykeli",
+  "district": "Çekmeköy",
+  "type": "Anıt",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Çekmeköy ilçesinde yer alan anıt.",
+  "mapQuery": "Atatürk Heykeli, Çekmeköy, İstanbul",
+  "osm": "node/4549090632"
+ },
+ {
+  "name": "Baltacı Tepesi",
+  "district": "Çekmeköy",
+  "type": "Doğa",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Çekmeköy ilçesinde yer alan doğa.",
+  "mapQuery": "Baltacı Tepesi, Çekmeköy, İstanbul",
+  "osm": "node/13663842055"
+ },
+ {
+  "name": "Baz İstasyonu",
+  "district": "Çekmeköy",
+  "type": "Kule",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Çekmeköy ilçesinde yer alan kule.",
+  "mapQuery": "Baz İstasyonu, Çekmeköy, İstanbul",
+  "osm": "node/10159879443"
+ },
+ {
+  "name": "Göz Tepe",
+  "district": "Çekmeköy",
+  "type": "Doğa",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Çekmeköy ilçesinde yer alan doğa.",
+  "mapQuery": "Göz Tepe, Çekmeköy, İstanbul",
+  "osm": "node/8639855007"
+ },
+ {
+  "name": "Havuz Tepesi",
+  "district": "Çekmeköy",
+  "type": "Doğa",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Çekmeköy ilçesinde yer alan doğa.",
+  "mapQuery": "Havuz Tepesi, Çekmeköy, İstanbul",
+  "osm": "node/11005991141"
+ },
+ {
+  "name": "Kapaklı Tepesi",
+  "district": "Çekmeköy",
+  "type": "Doğa",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Çekmeköy ilçesinde yer alan doğa.",
+  "mapQuery": "Kapaklı Tepesi, Çekmeköy, İstanbul",
+  "osm": "node/8667074298"
+ },
+ {
+  "name": "Kara Tepe",
+  "district": "Çekmeköy",
+  "type": "Doğa",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Çekmeköy ilçesinde yer alan doğa.",
+  "mapQuery": "Kara Tepe, Çekmeköy, İstanbul",
+  "osm": "node/13663842066"
+ },
+ {
+  "name": "Orta Tepesi",
+  "district": "Çekmeköy",
+  "type": "Doğa",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Çekmeköy ilçesinde yer alan doğa.",
+  "mapQuery": "Orta Tepesi, Çekmeköy, İstanbul",
+  "osm": "node/8639855006"
+ },
+ {
+  "name": "Pireci Studio",
+  "district": "Çekmeköy",
+  "type": "Müze",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Çekmeköy ilçesinde yer alan müze.",
+  "mapQuery": "Pireci Studio, Çekmeköy, İstanbul",
+  "osm": "node/5645608922"
+ },
+ {
+  "name": "Polonezköy Tabiat Parkı",
+  "district": "Çekmeköy",
+  "type": "Tabiat alanı",
+  "era": "rep",
+  "period": "1994",
+  "founder": "Bilinmiyor",
+  "story": "Çekmeköy ilçesinde yer alan tabiat alanı.",
+  "mapQuery": "Polonezköy Tabiat Parkı, Çekmeköy, İstanbul",
+  "osm": "relation/20448972"
+ },
+ {
+  "name": "Sarıgazi Köprüsü",
+  "district": "Çekmeköy",
+  "type": "Köprü",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Çekmeköy ilçesinde yer alan köprü.",
+  "mapQuery": "Sarıgazi Köprüsü, Çekmeköy, İstanbul",
+  "osm": "way/1288708529"
+ },
+ {
+  "name": "Taşdelen Yangın Gözetleme Kulesi",
+  "district": "Çekmeköy",
+  "type": "Kule",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Çekmeköy ilçesinde yer alan kule.",
+  "mapQuery": "Taşdelen Yangın Gözetleme Kulesi, Çekmeköy, İstanbul",
+  "osm": "node/8981916354"
+ },
+ {
+  "name": "Telbaşı Tepe",
+  "district": "Çekmeköy",
+  "type": "Doğa",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Çekmeköy ilçesinde yer alan doğa.",
+  "mapQuery": "Telbaşı Tepe, Çekmeköy, İstanbul",
+  "osm": "node/14253663495"
+ },
+ {
+  "name": "Viyadük-36",
+  "district": "Çekmeköy",
+  "type": "Köprü",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Çekmeköy ilçesinde yer alan köprü.",
+  "mapQuery": "Viyadük-36, Çekmeköy, İstanbul",
+  "osm": "way/1556564356"
+ },
+ {
+  "name": "Zamba Oyuncak Müzesi",
+  "district": "Çekmeköy",
+  "type": "Müze",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Çekmeköy ilçesinde yer alan müze.",
+  "mapQuery": "Zamba Oyuncak Müzesi, Çekmeköy, İstanbul",
+  "osm": "node/13849744569"
+ },
+ {
+  "name": "Çekmeköy Seyir Kulesi",
+  "district": "Çekmeköy",
+  "type": "Kule",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Çekmeköy ilçesinde yer alan kule.",
+  "mapQuery": "Çekmeköy Seyir Kulesi, Çekmeköy, İstanbul",
+  "osm": "node/5291430756"
+ }
+]

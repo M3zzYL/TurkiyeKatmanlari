@@ -1,0 +1,222 @@
+[
+ {
+  "name": "Adnan Menderes Anıt Mezarı",
+  "district": "Zeytinburnu",
+  "type": "Anıt",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Zeytinburnu ilçesinde yer alan anıt.",
+  "mapQuery": "Adnan Menderes Anıt Mezarı, Zeytinburnu, İstanbul",
+  "osm": "way/508953834"
+ },
+ {
+  "name": "Altınkapı",
+  "district": "Zeytinburnu",
+  "type": "Gezi noktası",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Zeytinburnu ilçesinde yer alan gezi noktası.",
+  "mapQuery": "Altınkapı, Zeytinburnu, İstanbul",
+  "osm": "node/5076114611"
+ },
+ {
+  "name": "Ayvalık Mezarlığı",
+  "district": "Zeytinburnu",
+  "type": "Tarihî yer",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Zeytinburnu ilçesinde yer alan tarihî yer.",
+  "mapQuery": "Ayvalık Mezarlığı, Zeytinburnu, İstanbul",
+  "osm": "way/83717058"
+ },
+ {
+  "name": "Balıklı Ermeni Mezarlığı",
+  "district": "Zeytinburnu",
+  "type": "Tarihî yer",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Zeytinburnu ilçesinde yer alan tarihî yer.",
+  "mapQuery": "Balıklı Ermeni Mezarlığı, Zeytinburnu, İstanbul",
+  "osm": "relation/21454240"
+ },
+ {
+  "name": "Balıklı Rum Ortodoks Mezarlığı",
+  "district": "Zeytinburnu",
+  "type": "Tarihî yer",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Zeytinburnu ilçesinde yer alan tarihî yer.",
+  "mapQuery": "Balıklı Rum Ortodoks Mezarlığı, Zeytinburnu, İstanbul",
+  "osm": "way/83699654"
+ },
+ {
+  "name": "Fişekhane",
+  "district": "Zeytinburnu",
+  "type": "Tarihî yapı",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Zeytinburnu ilçesinde yer alan tarihî yapı.",
+  "mapQuery": "Fişekhane, Zeytinburnu, İstanbul",
+  "osm": "way/539673047"
+ },
+ {
+  "name": "Haseki Sultan Çeşmesi",
+  "district": "Zeytinburnu",
+  "type": "Çeşme",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Zeytinburnu ilçesinde yer alan çeşme.",
+  "mapQuery": "Haseki Sultan Çeşmesi, Zeytinburnu, İstanbul",
+  "osm": "way/1336472875"
+ },
+ {
+  "name": "Kazlıçeşme Fatih Camii",
+  "district": "Zeytinburnu",
+  "type": "Cami",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Zeytinburnu ilçesinde yer alan cami.",
+  "mapQuery": "Kazlıçeşme Fatih Camii, Zeytinburnu, İstanbul",
+  "osm": "way/390188148"
+ },
+ {
+  "name": "Mahpeyker Valide Sultan Namazgâhı",
+  "district": "Zeytinburnu",
+  "type": "Tarihî yer",
+  "era": "ott",
+  "period": "1800",
+  "founder": "Bilinmiyor",
+  "story": "Zeytinburnu ilçesinde yer alan tarihî yer.",
+  "mapQuery": "Mahpeyker Valide Sultan Namazgâhı, Zeytinburnu, İstanbul",
+  "osm": "way/1064364753"
+ },
+ {
+  "name": "Merkez Efendi Hz. Türbesi",
+  "district": "Zeytinburnu",
+  "type": "Tarihî yer",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Zeytinburnu ilçesinde yer alan tarihî yer.",
+  "mapQuery": "Merkez Efendi Hz. Türbesi, Zeytinburnu, İstanbul",
+  "osm": "way/1320333140"
+ },
+ {
+  "name": "Merkezefendi Camii",
+  "district": "Zeytinburnu",
+  "type": "Cami",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Zeytinburnu ilçesinde yer alan cami.",
+  "mapQuery": "Merkezefendi Camii, Zeytinburnu, İstanbul",
+  "osm": "way/1320333141"
+ },
+ {
+  "name": "Panorama 1453 Tarih Müzesi",
+  "district": "Zeytinburnu",
+  "type": "Müze",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Zeytinburnu ilçesinde yer alan müze.",
+  "mapQuery": "Panorama 1453 Tarih Müzesi, Zeytinburnu, İstanbul",
+  "osm": "way/1153649968"
+ },
+ {
+  "name": "Topkapı Şehir Parkı",
+  "district": "Zeytinburnu",
+  "type": "Park / Bahçe",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Zeytinburnu ilçesinde yer alan park / bahçe.",
+  "mapQuery": "Topkapı Şehir Parkı, Zeytinburnu, İstanbul",
+  "osm": "way/228042035"
+ },
+ {
+  "name": "Turgut Özal Anıt Mezarı",
+  "district": "Zeytinburnu",
+  "type": "Anıt",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Zeytinburnu ilçesinde yer alan anıt.",
+  "mapQuery": "Turgut Özal Anıt Mezarı, Zeytinburnu, İstanbul",
+  "osm": "way/560719530"
+ },
+ {
+  "name": "Yedikule Mezarlığı",
+  "district": "Zeytinburnu",
+  "type": "Tarihî yer",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Zeytinburnu ilçesinde yer alan tarihî yer.",
+  "mapQuery": "Yedikule Mezarlığı, Zeytinburnu, İstanbul",
+  "osm": "way/180866633"
+ },
+ {
+  "name": "Yenikapı Mevlevihanesi",
+  "district": "Zeytinburnu",
+  "type": "Tarihî yapı",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Zeytinburnu ilçesinde yer alan tarihî yapı.",
+  "mapQuery": "Yenikapı Mevlevihanesi, Zeytinburnu, İstanbul",
+  "osm": "way/573806580"
+ },
+ {
+  "name": "Zeytinburnu Semiha Şakir Huzurevi",
+  "district": "Zeytinburnu",
+  "type": "Tarihî yer",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Zeytinburnu ilçesinde yer alan tarihî yer.",
+  "mapQuery": "Zeytinburnu Semiha Şakir Huzurevi, Zeytinburnu, İstanbul",
+  "osm": "node/5667640801"
+ },
+ {
+  "name": "belgradkapı camii",
+  "district": "Zeytinburnu",
+  "type": "Cami",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Zeytinburnu ilçesinde yer alan cami.",
+  "mapQuery": "belgradkapı camii, Zeytinburnu, İstanbul",
+  "osm": "way/566346994"
+ },
+ {
+  "name": "belgradkapı tesisleri",
+  "district": "Zeytinburnu",
+  "type": "Gezi noktası",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Zeytinburnu ilçesinde yer alan gezi noktası.",
+  "mapQuery": "belgradkapı tesisleri, Zeytinburnu, İstanbul",
+  "osm": "node/5667641577"
+ },
+ {
+  "name": "İstanbul Surları",
+  "district": "Zeytinburnu",
+  "type": "Gezi noktası",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Zeytinburnu ilçesinde yer alan gezi noktası.",
+  "mapQuery": "İstanbul Surları, Zeytinburnu, İstanbul",
+  "osm": "relation/151874"
+ }
+]

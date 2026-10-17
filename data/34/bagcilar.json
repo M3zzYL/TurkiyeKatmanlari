@@ -1,0 +1,24 @@
+[
+ {
+  "name": "M. Kemal Atatürk Heykeli",
+  "district": "Bağcılar",
+  "type": "Tarihî yer",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Bağcılar ilçesinde yer alan tarihî yer.",
+  "mapQuery": "M. Kemal Atatürk Heykeli, Bağcılar, İstanbul",
+  "osm": "node/11759072427"
+ },
+ {
+  "name": "منزل ايهاب أبو عرمانة",
+  "district": "Bağcılar",
+  "type": "Gezi noktası",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Bağcılar ilçesinde yer alan gezi noktası.",
+  "mapQuery": "منزل ايهاب أبو عرمانة, Bağcılar, İstanbul",
+  "osm": "node/6781557685"
+ }
+]

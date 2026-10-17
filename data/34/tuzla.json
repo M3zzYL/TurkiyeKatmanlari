@@ -1,0 +1,167 @@
+[
+ {
+  "name": "Atatürk Anıtı",
+  "district": "Tuzla",
+  "type": "Anıt",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Tuzla ilçesinde yer alan anıt.",
+  "mapQuery": "Atatürk Anıtı, Tuzla, İstanbul",
+  "osm": "node/9613242120"
+ },
+ {
+  "name": "Balçık Köprüsü",
+  "district": "Tuzla",
+  "type": "Köprü",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Tuzla ilçesinde yer alan köprü.",
+  "mapQuery": "Balçık Köprüsü, Tuzla, İstanbul",
+  "osm": "way/1291242073"
+ },
+ {
+  "name": "Baz İstasyonu",
+  "district": "Tuzla",
+  "type": "Kule",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Tuzla ilçesinde yer alan kule.",
+  "mapQuery": "Baz İstasyonu, Tuzla, İstanbul",
+  "osm": "node/11256516235"
+ },
+ {
+  "name": "Büyükballıca Tepe",
+  "district": "Tuzla",
+  "type": "Doğa",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Tuzla ilçesinde yer alan doğa.",
+  "mapQuery": "Büyükballıca Tepe, Tuzla, İstanbul",
+  "osm": "node/10108212348"
+ },
+ {
+  "name": "Değirmenaltı Kilisesi",
+  "district": "Tuzla",
+  "type": "Arkeolojik alan / Kalıntı",
+  "era": "ant",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Tuzla ilçesinde yer alan arkeolojik alan / kalıntı.",
+  "mapQuery": "Değirmenaltı Kilisesi, Tuzla, İstanbul",
+  "osm": "node/12669158467"
+ },
+ {
+  "name": "Değirmenaltı Kilisesi Kazı Alanı",
+  "district": "Tuzla",
+  "type": "Arkeolojik alan / Kalıntı",
+  "era": "ant",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Tuzla ilçesinde yer alan arkeolojik alan / kalıntı.",
+  "mapQuery": "Değirmenaltı Kilisesi Kazı Alanı, Tuzla, İstanbul",
+  "osm": "way/1451300221"
+ },
+ {
+  "name": "Dumankaya Adres Lobi",
+  "district": "Tuzla",
+  "type": "Gezi noktası",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Tuzla ilçesinde yer alan gezi noktası.",
+  "mapQuery": "Dumankaya Adres Lobi, Tuzla, İstanbul",
+  "osm": "node/5181982721"
+ },
+ {
+  "name": "Modern saat Kulesi",
+  "district": "Tuzla",
+  "type": "Anıt",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Tuzla ilçesinde yer alan anıt.",
+  "mapQuery": "Modern saat Kulesi, Tuzla, İstanbul",
+  "osm": "node/11211202588"
+ },
+ {
+  "name": "Nişancı Mehmet Paşa Camii",
+  "district": "Tuzla",
+  "type": "Cami",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Tuzla ilçesinde yer alan cami.",
+  "mapQuery": "Nişancı Mehmet Paşa Camii, Tuzla, İstanbul",
+  "osm": "way/316365427"
+ },
+ {
+  "name": "SUSAM",
+  "district": "Tuzla",
+  "type": "Galeri",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Tuzla ilçesinde yer alan galeri.",
+  "mapQuery": "SUSAM, Tuzla, İstanbul",
+  "osm": "way/840492223"
+ },
+ {
+  "name": "Sultan I. Ahmet Camii",
+  "district": "Tuzla",
+  "type": "Cami",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Tuzla ilçesinde yer alan cami.",
+  "mapQuery": "Sultan I. Ahmet Camii, Tuzla, İstanbul",
+  "osm": "way/656043066"
+ },
+ {
+  "name": "Tarihi Kalıntı",
+  "district": "Tuzla",
+  "type": "Tarihî yer",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Tuzla ilçesinde yer alan tarihî yer.",
+  "mapQuery": "Tarihi Kalıntı, Tuzla, İstanbul",
+  "osm": "node/12641822897"
+ },
+ {
+  "name": "Tarihi Lokomotif 56511",
+  "district": "Tuzla",
+  "type": "Tarihî yer",
+  "era": "rep",
+  "period": "1943",
+  "founder": "Bilinmiyor",
+  "story": "Tuzla ilçesinde yer alan tarihî yer.",
+  "mapQuery": "Tarihi Lokomotif 56511, Tuzla, İstanbul",
+  "osm": "way/1411794673"
+ },
+ {
+  "name": "Özgüt Sokagi",
+  "district": "Tuzla",
+  "type": "Seyir noktası",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Tuzla ilçesinde yer alan seyir noktası.",
+  "mapQuery": "Özgüt Sokagi, Tuzla, İstanbul",
+  "osm": "node/4367630391"
+ },
+ {
+  "name": "şişecam paşabahçe tuzla",
+  "district": "Tuzla",
+  "type": "Anıt",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Tuzla ilçesinde yer alan anıt.",
+  "mapQuery": "şişecam paşabahçe tuzla, Tuzla, İstanbul",
+  "osm": "node/7389731686"
+ }
+]

@@ -1,0 +1,50 @@
+<!doctype html><html lang="tr"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Türkiye Katmanları</title>
+<style>
+:root{--bg:#f6f0e2;--ink:#2b2a26;--g:#1f6b4a;--c:#efe6d2;--gold:#c8962e}
+body{margin:0;font:16px/1.5 Georgia,serif;background:var(--bg);color:var(--ink)}
+header{display:flex;gap:14px;align-items:center;padding:12px 16px;flex-wrap:wrap;border-bottom:1px solid #d9cdb0}
+h1{font-size:20px;margin:0;flex:1}nav a{margin-right:12px;color:var(--g);cursor:pointer;text-decoration:none}
+main{padding:16px;max-width:1100px;margin:auto}svg{width:100%;height:auto}
+.hx{cursor:pointer;stroke:#fff;stroke-width:2}.hx.off{cursor:default;opacity:.45}
+text{font:600 7px sans-serif;fill:#2b2a26;pointer-events:none;text-anchor:middle}
+.card{background:#fff;border:1px solid #d9cdb0;border-radius:10px;padding:12px;margin:8px 0;cursor:pointer}.card.v{border-color:var(--g)}
+#dr{position:fixed;right:0;top:0;bottom:0;width:min(420px,100%);box-sizing:border-box;background:#fff;box-shadow:-4px 0 16px #0003;padding:20px;overflow:auto;transform:translateX(100%);transition:.2s}#dr.o{transform:none}
+button,select{font:inherit;padding:6px 12px;border-radius:8px;border:1px solid var(--g);background:#fff}button.on{background:var(--g);color:#fff}
+.b{display:inline-block;padding:6px 12px;margin:4px;border-radius:20px;background:var(--c)}.b.ok{background:var(--gold);color:#fff}
+</style>
+<header><h1>Türkiye Katmanları</h1><nav><a href="#">Harita</a><a href="#rozet">Rozetler</a></nav>
+<label>Memleketim: <select id="home"></select></label></header>
+<main id="m"></main><aside id="dr"></aside>
+<script>
+const IL="Adana,Adıyaman,Afyonkarahisar,Ağrı,Amasya,Ankara,Antalya,Artvin,Aydın,Balıkesir,Bilecik,Bingöl,Bitlis,Bolu,Burdur,Bursa,Çanakkale,Çankırı,Çorum,Denizli,Diyarbakır,Edirne,Elazığ,Erzincan,Erzurum,Eskişehir,Gaziantep,Giresun,Gümüşhane,Hakkâri,Hatay,Isparta,Mersin,İstanbul,İzmir,Kars,Kastamonu,Kayseri,Kırklareli,Kırşehir,Kocaeli,Konya,Kütahya,Malatya,Manisa,Kahramanmaraş,Mardin,Muğla,Muş,Nevşehir,Niğde,Ordu,Rize,Sakarya,Samsun,Siirt,Sinop,Sivas,Tekirdağ,Tokat,Trabzon,Tunceli,Şanlıurfa,Uşak,Van,Yozgat,Zonguldak,Aksaray,Bayburt,Karaman,Kırıkkale,Batman,Şırnak,Bartın,Ardahan,Iğdır,Yalova,Karabük,Kilis,Osmaniye,Düzce".split(',');
+const ROWS=[[22,39,34,41,77,54,81,14,67,74,78,37,57,55,52,28,61,53,8],[59,17,10,11,16,26,6,18,19,5,60,58,29,69,25,36,75],[35,45,43,64,3,42,68,40,66,38,44,24,62,12,49,4,76],[9,20,15,32,70,51,50,71,2,23,21,13,65],[48,7,33,1,80,46,27,63,47,72,56,73,30],[null,null,null,null,31,79]];
+const ERA={ant:'Antik–Bizans',ott:'Osmanlı',rep:'Cumhuriyet',nat:'Doğa'};
+let S=JSON.parse(localStorage.getItem('tk')||'{"home":"","v":{}}'),IDX={},META={},PL={};
+const $=s=>document.querySelector(s),save=()=>localStorage.setItem('tk',JSON.stringify(S));
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const vc=(il,d)=>Object.keys(S.v).filter(k=>k.startsWith(il+'|'+(d?d+'|':''))).length;
+const jget=async u=>(await fetch(u)).json();
+const load=async il=>META[il]||(META[il]=await jget(`data/${il}.json`));
+function mix(t){if(t>=1)return'#c8962e';const a=[239,230,210],b=[31,107,74];return`rgb(${a.map((v,i)=>Math.round(v+(b[i]-v)*t))})`}
+function hex(rows,R,cell){const w=Math.sqrt(3)*R;let h='',W=0;
+ rows.forEach((row,r)=>row.forEach((it,i)=>{if(it==null)return;const x=12+w/2+(i+(r%2?.5:0))*w,y=12+R+r*1.5*R,c=cell(it);W=Math.max(W,x+w/2+12);
+  const p=[0,1,2,3,4,5].map(k=>{const a=Math.PI/180*(60*k-90);return(x+R*Math.cos(a)).toFixed(1)+','+(y+R*Math.sin(a)).toFixed(1)}).join(' ');
+  h+=`<g onclick="${c.on?c.go:''}"><title>${esc(c.title)}</title><polygon class="hx ${c.on?'':'off'}" points="${p}" fill="${mix(c.pct)}"/><text x="${x}" y="${y+3}">${esc(c.label)}</text></g>`}));
+ return`<svg viewBox="0 0 ${W} ${24+R*1.5*rows.length+R*.5}">${h}</svg>`}
+async function viewTR(){$('#m').innerHTML='<h2>Türkiye</h2><p>Bir il seçin. Renkli iller açıktır, soluk iller yakında eklenecek.</p>'+hex(ROWS,24,c=>{const d=IDX[c],n=IL[c-1];return{label:n.slice(0,10),title:n+(d?` · ${vc(c)}/${d.places}`:' · yakında'),pct:d?vc(c)/d.places:0,on:!!d,go:`location.hash='il/${c}'`}})}
+async function viewIL(il){const m=await load(il);$('#m').innerHTML=`<h2>${m.name}</h2><p>${vc(il)} / ${IDX[il].places} yer gezildi. Veri eklendikçe daha fazla ilçe açılır.</p>`+hex(m.rows,34,n=>{const d=m.districts.find(x=>x.n==n);return{label:n.slice(0,11),title:`${n} · ${vc(il,n)}/${d.c}`,pct:d.c?vc(il,n)/d.c:0,on:d.c>0,go:`location.hash='il/${il}/${d.s}'`}})}
+async function viewD(il,s){const m=await load(il),d=m.districts.find(x=>x.s==s),k=il+s;PL[k]=PL[k]||await jget(`data/${il}/${s}.json`);
+ $('#m').innerHTML=`<a href="#il/${il}">← ${m.name}</a><h2>${d.n}</h2>`+PL[k].map((p,i)=>`<div class="card ${S.v[il+'|'+d.n+'|'+p.name]?'v':''}" onclick="openP('${il}','${s}',${i})"><b>${esc(p.name)}</b> ${S.v[il+'|'+d.n+'|'+p.name]?'✓':''}<br><small>${esc(p.type)} · ${ERA[p.era]||''} · ${esc(p.period)}</small></div>`).join('')}
+function openP(il,s,i){const p=PL[il+s][i],key=il+'|'+p.district+'|'+p.name,v=!!S.v[key];
+ $('#dr').innerHTML=`<button onclick="$('#dr').classList.remove('o')">Kapat</button><h2>${esc(p.name)}</h2><p><small>${esc(p.type)} · ${ERA[p.era]||''} · ${esc(p.period)}<br>Yapan: ${esc(p.founder)}</small></p><p>${esc(p.story)}</p><p><a target="_blank" rel="noopener" href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(p.mapQuery)}">Haritada aç</a></p><button class="${v?'on':''}" onclick="tog('${key.replace(/'/g,"\\'")}','${il}','${s}')">${v?'✓ Gittim':'Gittim'}</button>`;$('#dr').classList.add('o')}
+function tog(k,il,s){S.v[k]?delete S.v[k]:S.v[k]=Date.now();save();viewD(il,s);const i=PL[il+s].findIndex(p=>il+'|'+p.district+'|'+p.name==k);openP(il,s,i)}
+async function viewB(){let h='<h2>Rozetler</h2>';const codes=Object.keys(IDX).sort((a,b)=>(b==S.home)-(a==S.home));
+ if(!S.home)h+='<p>Memleketini yukarıdan seç, o ilin ilçe rozetleri öne çıksın.</p>';
+ for(const il of codes){const m=await load(il),full=m.districts.filter(d=>d.c&&vc(il,d.n)>=d.c).length,all=m.districts.filter(d=>d.c).length;
+  h+=`<h3>${m.name}${il==S.home?' (memleketin)':''}</h3><span class="b ${all&&full==all?'ok':''}">${m.name} İl Rozeti ${full}/${all}</span><br>`+m.districts.filter(d=>d.c).map(d=>`<span class="b ${vc(il,d.n)>=d.c?'ok':''}">${d.n} ${vc(il,d.n)}/${d.c}</span>`).join('')}
+ $('#m').innerHTML=h}
+async function route(){const h=location.hash.slice(1).split('/');$('#dr').classList.remove('o');
+ if(h[0]=='rozet')return viewB();if(h[0]=='il'&&IDX[h[1]])return h[2]?viewD(h[1],h[2]):viewIL(h[1]);viewTR()}
+(async()=>{IDX=await jget('data/index.json');$('#home').innerHTML='<option value="">Seçin</option>'+IL.map((n,i)=>`<option value="${i+1}">${n}</option>`).join('');$('#home').value=S.home;
+ $('#home').onchange=e=>{S.home=e.target.value;save();route()};addEventListener('hashchange',route);route()})();
+</script></html>

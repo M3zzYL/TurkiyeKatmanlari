@@ -1,0 +1,134 @@
+[
+ {
+  "name": "Arap Hekim Camii",
+  "district": "Sancaktepe",
+  "type": "Cami",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Sancaktepe ilçesinde yer alan cami.",
+  "mapQuery": "Arap Hekim Camii, Sancaktepe, İstanbul",
+  "osm": "way/517857391"
+ },
+ {
+  "name": "Atatürk Heykeli",
+  "district": "Sancaktepe",
+  "type": "Tarihî yer",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Sancaktepe ilçesinde yer alan tarihî yer.",
+  "mapQuery": "Atatürk Heykeli, Sancaktepe, İstanbul",
+  "osm": "node/13854353232"
+ },
+ {
+  "name": "Ayazma Tepe",
+  "district": "Sancaktepe",
+  "type": "Doğa",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Sancaktepe ilçesinde yer alan doğa.",
+  "mapQuery": "Ayazma Tepe, Sancaktepe, İstanbul",
+  "osm": "node/12976214329"
+ },
+ {
+  "name": "Damatrys Sarayı",
+  "district": "Sancaktepe",
+  "type": "Arkeolojik alan / Kalıntı",
+  "era": "ant",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Sancaktepe ilçesinde yer alan arkeolojik alan / kalıntı.",
+  "mapQuery": "Damatrys Sarayı, Sancaktepe, İstanbul",
+  "osm": "way/1067146462"
+ },
+ {
+  "name": "Kalebayırı Yangın Gözetleme Kulesi",
+  "district": "Sancaktepe",
+  "type": "Kule",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Sancaktepe ilçesinde yer alan kule.",
+  "mapQuery": "Kalebayırı Yangın Gözetleme Kulesi, Sancaktepe, İstanbul",
+  "osm": "node/8981916351"
+ },
+ {
+  "name": "Ortadağ Köprüsü",
+  "district": "Sancaktepe",
+  "type": "Köprü",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Sancaktepe ilçesinde yer alan köprü.",
+  "mapQuery": "Ortadağ Köprüsü, Sancaktepe, İstanbul",
+  "osm": "way/1290416635"
+ },
+ {
+  "name": "Samandıra 1 Köprüsü",
+  "district": "Sancaktepe",
+  "type": "Köprü",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Sancaktepe ilçesinde yer alan köprü.",
+  "mapQuery": "Samandıra 1 Köprüsü, Sancaktepe, İstanbul",
+  "osm": "way/1289405768"
+ },
+ {
+  "name": "Sancaktepe Saat Kulesi",
+  "district": "Sancaktepe",
+  "type": "Anıt",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Sancaktepe ilçesinde yer alan anıt.",
+  "mapQuery": "Sancaktepe Saat Kulesi, Sancaktepe, İstanbul",
+  "osm": "node/10931260134"
+ },
+ {
+  "name": "Sarıgazi Merkez Cami",
+  "district": "Sancaktepe",
+  "type": "Cami",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Sancaktepe ilçesinde yer alan cami.",
+  "mapQuery": "Sarıgazi Merkez Cami, Sancaktepe, İstanbul",
+  "osm": "way/517932251"
+ },
+ {
+  "name": "Sarıgazi Türbesi",
+  "district": "Sancaktepe",
+  "type": "Tarihî yer",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Sancaktepe ilçesinde yer alan tarihî yer.",
+  "mapQuery": "Sarıgazi Türbesi, Sancaktepe, İstanbul",
+  "osm": "way/812985231"
+ },
+ {
+  "name": "Viyadük-29",
+  "district": "Sancaktepe",
+  "type": "Köprü",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Sancaktepe ilçesinde yer alan köprü.",
+  "mapQuery": "Viyadük-29, Sancaktepe, İstanbul",
+  "osm": "way/1286095081"
+ },
+ {
+  "name": "Viyadük-30",
+  "district": "Sancaktepe",
+  "type": "Köprü",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Sancaktepe ilçesinde yer alan köprü.",
+  "mapQuery": "Viyadük-30, Sancaktepe, İstanbul",
+  "osm": "way/1552320931"
+ }
+]

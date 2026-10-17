@@ -1,0 +1,57 @@
+[
+ {
+  "name": "Açık Hava Müzesi",
+  "district": "Kâğıthane",
+  "type": "Müze",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Kâğıthane ilçesinde yer alan müze.",
+  "mapQuery": "Açık Hava Müzesi, Kâğıthane, İstanbul",
+  "osm": "way/1467139675"
+ },
+ {
+  "name": "Daye Hatun Camii",
+  "district": "Kâğıthane",
+  "type": "Cami",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Kâğıthane ilçesinde yer alan cami.",
+  "mapQuery": "Daye Hatun Camii, Kâğıthane, İstanbul",
+  "osm": "way/1313552608"
+ },
+ {
+  "name": "Istanbul Sapphire",
+  "district": "Kâğıthane",
+  "type": "Seyir noktası",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Kâğıthane ilçesinde yer alan seyir noktası.",
+  "mapQuery": "Istanbul Sapphire, Kâğıthane, İstanbul",
+  "osm": "node/2246566959"
+ },
+ {
+  "name": "Kâğıthane Belediyesi Şehir Müzesi",
+  "district": "Kâğıthane",
+  "type": "Müze",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Kâğıthane ilçesinde yer alan müze.",
+  "mapQuery": "Kâğıthane Belediyesi Şehir Müzesi, Kâğıthane, İstanbul",
+  "osm": "node/9933672047"
+ },
+ {
+  "name": "Sadabad Camii",
+  "district": "Kâğıthane",
+  "type": "Cami",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Kâğıthane ilçesinde yer alan cami.",
+  "mapQuery": "Sadabad Camii, Kâğıthane, İstanbul",
+  "osm": "way/551917593"
+ }
+]

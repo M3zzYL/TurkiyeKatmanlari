@@ -1,0 +1,24 @@
+[
+ {
+  "name": "Atatürk Heykeli",
+  "district": "Gaziosmanpaşa",
+  "type": "Tarihî yer",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Gaziosmanpaşa ilçesinde yer alan tarihî yer.",
+  "mapQuery": "Atatürk Heykeli, Gaziosmanpaşa, İstanbul",
+  "osm": "node/5284636252"
+ },
+ {
+  "name": "Valide Su Kemeri",
+  "district": "Gaziosmanpaşa",
+  "type": "Köprü",
+  "era": "ott",
+  "period": "1564",
+  "founder": "Mimar Sinan",
+  "story": "Gaziosmanpaşa ilçesinde yer alan köprü.",
+  "mapQuery": "Valide Su Kemeri, Gaziosmanpaşa, İstanbul",
+  "osm": "way/226765777"
+ }
+]

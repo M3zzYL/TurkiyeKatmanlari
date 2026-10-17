@@ -1,0 +1,178 @@
+[
+ {
+  "name": "Atatürk Anıtı",
+  "district": "Ataşehir",
+  "type": "Anıt",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Ataşehir ilçesinde yer alan anıt.",
+  "mapQuery": "Atatürk Anıtı, Ataşehir, İstanbul",
+  "osm": "node/10006580410"
+ },
+ {
+  "name": "Atatürk Heykeli",
+  "district": "Ataşehir",
+  "type": "Tarihî yer",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Ataşehir ilçesinde yer alan tarihî yer.",
+  "mapQuery": "Atatürk Heykeli, Ataşehir, İstanbul",
+  "osm": "node/11703418426"
+ },
+ {
+  "name": "Ataşehir Köprüsü",
+  "district": "Ataşehir",
+  "type": "Köprü",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Ataşehir ilçesinde yer alan köprü.",
+  "mapQuery": "Ataşehir Köprüsü, Ataşehir, İstanbul",
+  "osm": "way/1286104167"
+ },
+ {
+  "name": "Düştepe Oyun Müzesi",
+  "district": "Ataşehir",
+  "type": "Müze",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Ataşehir ilçesinde yer alan müze.",
+  "mapQuery": "Düştepe Oyun Müzesi, Ataşehir, İstanbul",
+  "osm": "node/12456058886"
+ },
+ {
+  "name": "Ekol Sanat Akademisi",
+  "district": "Ataşehir",
+  "type": "Galeri",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Ataşehir ilçesinde yer alan galeri.",
+  "mapQuery": "Ekol Sanat Akademisi, Ataşehir, İstanbul",
+  "osm": "node/9908190428"
+ },
+ {
+  "name": "Evrensel Değerler Çocuk Müzesi",
+  "district": "Ataşehir",
+  "type": "Müze",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Ataşehir ilçesinde yer alan müze.",
+  "mapQuery": "Evrensel Değerler Çocuk Müzesi, Ataşehir, İstanbul",
+  "osm": "way/1120989069"
+ },
+ {
+  "name": "Göztepe Köprüsü",
+  "district": "Ataşehir",
+  "type": "Köprü",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Ataşehir ilçesinde yer alan köprü.",
+  "mapQuery": "Göztepe Köprüsü, Ataşehir, İstanbul",
+  "osm": "way/1297631733"
+ },
+ {
+  "name": "Herkes İçin Daha İyi Bir Gelecek",
+  "district": "Ataşehir",
+  "type": "Tarihî yer",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Ataşehir ilçesinde yer alan tarihî yer.",
+  "mapQuery": "Herkes İçin Daha İyi Bir Gelecek, Ataşehir, İstanbul",
+  "osm": "node/11528510859"
+ },
+ {
+  "name": "Kozyatağı Köprüsü",
+  "district": "Ataşehir",
+  "type": "Köprü",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Ataşehir ilçesinde yer alan köprü.",
+  "mapQuery": "Kozyatağı Köprüsü, Ataşehir, İstanbul",
+  "osm": "way/1284128036"
+ },
+ {
+  "name": "M.K. Atatürk & Salvador Allende",
+  "district": "Ataşehir",
+  "type": "Anıt",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Ataşehir ilçesinde yer alan anıt.",
+  "mapQuery": "M.K. Atatürk & Salvador Allende, Ataşehir, İstanbul",
+  "osm": "node/5001163522"
+ },
+ {
+  "name": "Mahmut Bey Çeşmesi",
+  "district": "Ataşehir",
+  "type": "Çeşme",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Ataşehir ilçesinde yer alan çeşme.",
+  "mapQuery": "Mahmut Bey Çeşmesi, Ataşehir, İstanbul",
+  "osm": "node/13415553542"
+ },
+ {
+  "name": "Mimar Sinan Camii",
+  "district": "Ataşehir",
+  "type": "Cami",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Ataşehir ilçesinde yer alan cami.",
+  "mapQuery": "Mimar Sinan Camii, Ataşehir, İstanbul",
+  "osm": "relation/14876883"
+ },
+ {
+  "name": "Turkiano Art Gallery",
+  "district": "Ataşehir",
+  "type": "Galeri",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Ataşehir ilçesinde yer alan galeri.",
+  "mapQuery": "Turkiano Art Gallery, Ataşehir, İstanbul",
+  "osm": "node/9117490175"
+ },
+ {
+  "name": "X Media Art Müsesi",
+  "district": "Ataşehir",
+  "type": "Müze",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Ataşehir ilçesinde yer alan müze.",
+  "mapQuery": "X Media Art Müsesi, Ataşehir, İstanbul",
+  "osm": "node/10945908788"
+ },
+ {
+  "name": "İMES Köprüsü",
+  "district": "Ataşehir",
+  "type": "Köprü",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Ataşehir ilçesinde yer alan köprü.",
+  "mapQuery": "İMES Köprüsü, Ataşehir, İstanbul",
+  "osm": "way/1285536811"
+ },
+ {
+  "name": "İçerenköy Kavşağı Heykeli",
+  "district": "Ataşehir",
+  "type": "Anıt",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Ataşehir ilçesinde yer alan anıt.",
+  "mapQuery": "İçerenköy Kavşağı Heykeli, Ataşehir, İstanbul",
+  "osm": "node/10285668491"
+ }
+]

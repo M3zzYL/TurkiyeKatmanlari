@@ -1,0 +1,222 @@
+[
+ {
+  "name": "Atatürk",
+  "district": "Maltepe",
+  "type": "Anıt",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Maltepe ilçesinde yer alan anıt.",
+  "mapQuery": "Atatürk, Maltepe, İstanbul",
+  "osm": "node/6401620528"
+ },
+ {
+  "name": "Atatürk Heykeli",
+  "district": "Maltepe",
+  "type": "Anıt",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Maltepe ilçesinde yer alan anıt.",
+  "mapQuery": "Atatürk Heykeli, Maltepe, İstanbul",
+  "osm": "node/2852238747"
+ },
+ {
+  "name": "Bakireler Anıtı",
+  "district": "Maltepe",
+  "type": "Anıt",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Maltepe ilçesinde yer alan anıt.",
+  "mapQuery": "Bakireler Anıtı, Maltepe, İstanbul",
+  "osm": "way/1209182351"
+ },
+ {
+  "name": "Başıbüyük camii",
+  "district": "Maltepe",
+  "type": "Cami",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Maltepe ilçesinde yer alan cami.",
+  "mapQuery": "Başıbüyük camii, Maltepe, İstanbul",
+  "osm": "way/1264048698"
+ },
+ {
+  "name": "Cevizli Köprüsü",
+  "district": "Maltepe",
+  "type": "Köprü",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Maltepe ilçesinde yer alan köprü.",
+  "mapQuery": "Cevizli Köprüsü, Maltepe, İstanbul",
+  "osm": "way/1289749269"
+ },
+ {
+  "name": "Derince Sanat Evi",
+  "district": "Maltepe",
+  "type": "Galeri",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Maltepe ilçesinde yer alan galeri.",
+  "mapQuery": "Derince Sanat Evi, Maltepe, İstanbul",
+  "osm": "node/13306014864"
+ },
+ {
+  "name": "Esenyol Köprüsü",
+  "district": "Maltepe",
+  "type": "Köprü",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Maltepe ilçesinde yer alan köprü.",
+  "mapQuery": "Esenyol Köprüsü, Maltepe, İstanbul",
+  "osm": "way/1289861953"
+ },
+ {
+  "name": "Feyzullah Efendi Cami",
+  "district": "Maltepe",
+  "type": "Cami",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Maltepe ilçesinde yer alan cami.",
+  "mapQuery": "Feyzullah Efendi Cami, Maltepe, İstanbul",
+  "osm": "way/1233369815"
+ },
+ {
+  "name": "Fikret Otyam Müzesi",
+  "district": "Maltepe",
+  "type": "Müze",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Maltepe ilçesinde yer alan müze.",
+  "mapQuery": "Fikret Otyam Müzesi, Maltepe, İstanbul",
+  "osm": "way/459849112"
+ },
+ {
+  "name": "Fındıkbayır Tepesi Bizans Kalıntıları",
+  "district": "Maltepe",
+  "type": "Arkeolojik alan / Kalıntı",
+  "era": "ant",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Maltepe ilçesinde yer alan arkeolojik alan / kalıntı.",
+  "mapQuery": "Fındıkbayır Tepesi Bizans Kalıntıları, Maltepe, İstanbul",
+  "osm": "node/14208373904"
+ },
+ {
+  "name": "Fındıklı Tepesi",
+  "district": "Maltepe",
+  "type": "Doğa",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Maltepe ilçesinde yer alan doğa.",
+  "mapQuery": "Fındıklı Tepesi, Maltepe, İstanbul",
+  "osm": "node/9906466355"
+ },
+ {
+  "name": "Kayış Dağı",
+  "district": "Maltepe",
+  "type": "Doğa",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Maltepe ilçesinde yer alan doğa.",
+  "mapQuery": "Kayış Dağı, Maltepe, İstanbul",
+  "osm": "node/2622394133"
+ },
+ {
+  "name": "Kayışdağı Suyu Memba Alanı",
+  "district": "Maltepe",
+  "type": "Doğa",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Maltepe ilçesinde yer alan doğa.",
+  "mapQuery": "Kayışdağı Suyu Memba Alanı, Maltepe, İstanbul",
+  "osm": "node/9908026579"
+ },
+ {
+  "name": "Maltepe Ceneviz Kalesi",
+  "district": "Maltepe",
+  "type": "Arkeolojik alan / Kalıntı",
+  "era": "ant",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Maltepe ilçesinde yer alan arkeolojik alan / kalıntı.",
+  "mapQuery": "Maltepe Ceneviz Kalesi, Maltepe, İstanbul",
+  "osm": "node/14208373916"
+ },
+ {
+  "name": "Mağara Tepesi",
+  "district": "Maltepe",
+  "type": "Doğa",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Maltepe ilçesinde yer alan doğa.",
+  "mapQuery": "Mağara Tepesi, Maltepe, İstanbul",
+  "osm": "node/8667074367"
+ },
+ {
+  "name": "Ortadağ Köprüsü",
+  "district": "Maltepe",
+  "type": "Köprü",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Maltepe ilçesinde yer alan köprü.",
+  "mapQuery": "Ortadağ Köprüsü, Maltepe, İstanbul",
+  "osm": "way/1290416635"
+ },
+ {
+  "name": "Seyit Onbaşı Heykeli",
+  "district": "Maltepe",
+  "type": "Anıt",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Maltepe ilçesinde yer alan anıt.",
+  "mapQuery": "Seyit Onbaşı Heykeli, Maltepe, İstanbul",
+  "osm": "node/2852239163"
+ },
+ {
+  "name": "Tekkebayırı Tepesi",
+  "district": "Maltepe",
+  "type": "Doğa",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Maltepe ilçesinde yer alan doğa.",
+  "mapQuery": "Tekkebayırı Tepesi, Maltepe, İstanbul",
+  "osm": "node/8667074365"
+ },
+ {
+  "name": "Uluslararası Maltepe Taş Heykel Sempozyumu",
+  "district": "Maltepe",
+  "type": "Tarihî yer",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Maltepe ilçesinde yer alan tarihî yer.",
+  "mapQuery": "Uluslararası Maltepe Taş Heykel Sempozyumu, Maltepe, İstanbul",
+  "osm": "node/13626358555"
+ },
+ {
+  "name": "Yetmişevler Köprüsü",
+  "district": "Maltepe",
+  "type": "Köprü",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Maltepe ilçesinde yer alan köprü.",
+  "mapQuery": "Yetmişevler Köprüsü, Maltepe, İstanbul",
+  "osm": "way/1290884749"
+ }
+]

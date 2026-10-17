@@ -1,0 +1,211 @@
+[
+ {
+  "name": "Ardıç Tepe",
+  "district": "Başakşehir",
+  "type": "Doğa",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Başakşehir ilçesinde yer alan doğa.",
+  "mapQuery": "Ardıç Tepe, Başakşehir, İstanbul",
+  "osm": "node/11421905089"
+ },
+ {
+  "name": "Azatlı Baruthanesi",
+  "district": "Başakşehir",
+  "type": "Tarihî yapı",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Başakşehir ilçesinde yer alan tarihî yapı.",
+  "mapQuery": "Azatlı Baruthanesi, Başakşehir, İstanbul",
+  "osm": "way/229475588"
+ },
+ {
+  "name": "Baz İstasyonu",
+  "district": "Başakşehir",
+  "type": "Kule",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Başakşehir ilçesinde yer alan kule.",
+  "mapQuery": "Baz İstasyonu, Başakşehir, İstanbul",
+  "osm": "node/11689076252"
+ },
+ {
+  "name": "Büyükkartal Tepesi",
+  "district": "Başakşehir",
+  "type": "Doğa",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Başakşehir ilçesinde yer alan doğa.",
+  "mapQuery": "Büyükkartal Tepesi, Başakşehir, İstanbul",
+  "osm": "node/10948888374"
+ },
+ {
+  "name": "Discovery Museum",
+  "district": "Başakşehir",
+  "type": "Müze",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Başakşehir ilçesinde yer alan müze.",
+  "mapQuery": "Discovery Museum, Başakşehir, İstanbul",
+  "osm": "node/7580601342"
+ },
+ {
+  "name": "Funda Tepesi",
+  "district": "Başakşehir",
+  "type": "Doğa",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Başakşehir ilçesinde yer alan doğa.",
+  "mapQuery": "Funda Tepesi, Başakşehir, İstanbul",
+  "osm": "node/10948888375"
+ },
+ {
+  "name": "Halbostan Tepesi",
+  "district": "Başakşehir",
+  "type": "Doğa",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Başakşehir ilçesinde yer alan doğa.",
+  "mapQuery": "Halbostan Tepesi, Başakşehir, İstanbul",
+  "osm": "node/10948888372"
+ },
+ {
+  "name": "Küçükkısık Tepe",
+  "district": "Başakşehir",
+  "type": "Doğa",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Başakşehir ilçesinde yer alan doğa.",
+  "mapQuery": "Küçükkısık Tepe, Başakşehir, İstanbul",
+  "osm": "node/11421905086"
+ },
+ {
+  "name": "Manastır Tepe",
+  "district": "Başakşehir",
+  "type": "Doğa",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Başakşehir ilçesinde yer alan doğa.",
+  "mapQuery": "Manastır Tepe, Başakşehir, İstanbul",
+  "osm": "node/10948945016"
+ },
+ {
+  "name": "Piren Tepesi",
+  "district": "Başakşehir",
+  "type": "Doğa",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Başakşehir ilçesinde yer alan doğa.",
+  "mapQuery": "Piren Tepesi, Başakşehir, İstanbul",
+  "osm": "node/10948945011"
+ },
+ {
+  "name": "Recep Tepesi",
+  "district": "Başakşehir",
+  "type": "Doğa",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Başakşehir ilçesinde yer alan doğa.",
+  "mapQuery": "Recep Tepesi, Başakşehir, İstanbul",
+  "osm": "node/9147931930"
+ },
+ {
+  "name": "Resneli Çiftliği Müştemilatı",
+  "district": "Başakşehir",
+  "type": "Tarihî yapı",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Başakşehir ilçesinde yer alan tarihî yapı.",
+  "mapQuery": "Resneli Çiftliği Müştemilatı, Başakşehir, İstanbul",
+  "osm": "way/1472111107"
+ },
+ {
+  "name": "Sazlıdere Köprüsü",
+  "district": "Başakşehir",
+  "type": "Köprü",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Başakşehir ilçesinde yer alan köprü.",
+  "mapQuery": "Sazlıdere Köprüsü, Başakşehir, İstanbul",
+  "osm": "way/1284123584"
+ },
+ {
+  "name": "Tarihi Hasanderesi Köprüsü",
+  "district": "Başakşehir",
+  "type": "Arkeolojik alan / Kalıntı",
+  "era": "ant",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Başakşehir ilçesinde yer alan arkeolojik alan / kalıntı.",
+  "mapQuery": "Tarihi Hasanderesi Köprüsü, Başakşehir, İstanbul",
+  "osm": "way/1558498240"
+ },
+ {
+  "name": "Yıldız Tepe",
+  "district": "Başakşehir",
+  "type": "Doğa",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Başakşehir ilçesinde yer alan doğa.",
+  "mapQuery": "Yıldız Tepe, Başakşehir, İstanbul",
+  "osm": "node/11421905092"
+ },
+ {
+  "name": "Çınar Konutları Seyir Terası",
+  "district": "Başakşehir",
+  "type": "Gezi noktası",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Başakşehir ilçesinde yer alan gezi noktası.",
+  "mapQuery": "Çınar Konutları Seyir Terası, Başakşehir, İstanbul",
+  "osm": "way/1526506076"
+ },
+ {
+  "name": "İstanbul Başakşehir Futbol Klubü Kupası",
+  "district": "Başakşehir",
+  "type": "Tarihî yer",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Başakşehir ilçesinde yer alan tarihî yer.",
+  "mapQuery": "İstanbul Başakşehir Futbol Klubü Kupası, Başakşehir, İstanbul",
+  "osm": "way/1334260328"
+ },
+ {
+  "name": "Şamlar Arkeolojik Alanı",
+  "district": "Başakşehir",
+  "type": "Arkeolojik alan / Kalıntı",
+  "era": "ant",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Başakşehir ilçesinde yer alan arkeolojik alan / kalıntı.",
+  "mapQuery": "Şamlar Arkeolojik Alanı, Başakşehir, İstanbul",
+  "osm": "way/1374054548"
+ },
+ {
+  "name": "Şamlar Bendi",
+  "district": "Başakşehir",
+  "type": "Tarihî yer",
+  "era": "ott",
+  "period": "1828",
+  "founder": "Bilinmiyor",
+  "story": "Başakşehir ilçesinde yer alan tarihî yer.",
+  "mapQuery": "Şamlar Bendi, Başakşehir, İstanbul",
+  "osm": "way/587579702"
+ }
+]

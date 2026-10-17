@@ -1,0 +1,233 @@
+[
+ {
+  "name": "Adnan Kahveci Büstü",
+  "district": "Kartal",
+  "type": "Tarihî yer",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Kartal ilçesinde yer alan tarihî yer.",
+  "mapQuery": "Adnan Kahveci Büstü, Kartal, İstanbul",
+  "osm": "node/5928972413"
+ },
+ {
+  "name": "Atatürk Büstü",
+  "district": "Kartal",
+  "type": "Tarihî yer",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Kartal ilçesinde yer alan tarihî yer.",
+  "mapQuery": "Atatürk Büstü, Kartal, İstanbul",
+  "osm": "node/12461597272"
+ },
+ {
+  "name": "Atatürk Heykeli",
+  "district": "Kartal",
+  "type": "Tarihî yer",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Kartal ilçesinde yer alan tarihî yer.",
+  "mapQuery": "Atatürk Heykeli, Kartal, İstanbul",
+  "osm": "way/984674284"
+ },
+ {
+  "name": "Aydos Dağı",
+  "district": "Kartal",
+  "type": "Doğa",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Kartal ilçesinde yer alan doğa.",
+  "mapQuery": "Aydos Dağı, Kartal, İstanbul",
+  "osm": "node/2622398377"
+ },
+ {
+  "name": "Cevizli Köprüsü",
+  "district": "Kartal",
+  "type": "Köprü",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Kartal ilçesinde yer alan köprü.",
+  "mapQuery": "Cevizli Köprüsü, Kartal, İstanbul",
+  "osm": "way/1289749269"
+ },
+ {
+  "name": "Dragos Arkeolojik Kazı Alanı",
+  "district": "Kartal",
+  "type": "Gezi noktası",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Kartal ilçesinde yer alan gezi noktası.",
+  "mapQuery": "Dragos Arkeolojik Kazı Alanı, Kartal, İstanbul",
+  "osm": "node/9063181317"
+ },
+ {
+  "name": "Dragos Sahili",
+  "district": "Kartal",
+  "type": "Seyir noktası",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Kartal ilçesinde yer alan seyir noktası.",
+  "mapQuery": "Dragos Sahili, Kartal, İstanbul",
+  "osm": "node/4390319091"
+ },
+ {
+  "name": "Hacı Aliağa Camii",
+  "district": "Kartal",
+  "type": "Cami",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Kartal ilçesinde yer alan cami.",
+  "mapQuery": "Hacı Aliağa Camii, Kartal, İstanbul",
+  "osm": "way/388713709"
+ },
+ {
+  "name": "Hamam Kalıntısı",
+  "district": "Kartal",
+  "type": "Tarihî yapı",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Kartal ilçesinde yer alan tarihî yapı.",
+  "mapQuery": "Hamam Kalıntısı, Kartal, İstanbul",
+  "osm": "way/1068261899"
+ },
+ {
+  "name": "Kartal Belediyesi Masal Müzesi",
+  "district": "Kartal",
+  "type": "Müze",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Kartal ilçesinde yer alan müze.",
+  "mapQuery": "Kartal Belediyesi Masal Müzesi, Kartal, İstanbul",
+  "osm": "way/972288159"
+ },
+ {
+  "name": "Kartal Köprüsü",
+  "district": "Kartal",
+  "type": "Köprü",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Kartal ilçesinde yer alan köprü.",
+  "mapQuery": "Kartal Köprüsü, Kartal, İstanbul",
+  "osm": "way/1286573782"
+ },
+ {
+  "name": "Kartal Merkez Camii",
+  "district": "Kartal",
+  "type": "Cami",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Kartal ilçesinde yer alan cami.",
+  "mapQuery": "Kartal Merkez Camii, Kartal, İstanbul",
+  "osm": "way/1263746655"
+ },
+ {
+  "name": "Kartallı Kazım Anıtı",
+  "district": "Kartal",
+  "type": "Anıt",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Kartal ilçesinde yer alan anıt.",
+  "mapQuery": "Kartallı Kazım Anıtı, Kartal, İstanbul",
+  "osm": "node/4567527928"
+ },
+ {
+  "name": "Maarifi Sultan Camii",
+  "district": "Kartal",
+  "type": "Cami",
+  "era": "ott",
+  "period": "1818",
+  "founder": "Bilinmiyor",
+  "story": "Kartal ilçesinde yer alan cami.",
+  "mapQuery": "Maarifi Sultan Camii, Kartal, İstanbul",
+  "osm": "way/727029990"
+ },
+ {
+  "name": "Madenler Tepesi",
+  "district": "Kartal",
+  "type": "Doğa",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Kartal ilçesinde yer alan doğa.",
+  "mapQuery": "Madenler Tepesi, Kartal, İstanbul",
+  "osm": "node/12813801357"
+ },
+ {
+  "name": "Ortadağ Köprüsü",
+  "district": "Kartal",
+  "type": "Köprü",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Kartal ilçesinde yer alan köprü.",
+  "mapQuery": "Ortadağ Köprüsü, Kartal, İstanbul",
+  "osm": "way/1290416635"
+ },
+ {
+  "name": "Soğanlık Köprüsü",
+  "district": "Kartal",
+  "type": "Köprü",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Kartal ilçesinde yer alan köprü.",
+  "mapQuery": "Soğanlık Köprüsü, Kartal, İstanbul",
+  "osm": "way/1289741613"
+ },
+ {
+  "name": "Yakacık Merkez Camii",
+  "district": "Kartal",
+  "type": "Cami",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Kartal ilçesinde yer alan cami.",
+  "mapQuery": "Yakacık Merkez Camii, Kartal, İstanbul",
+  "osm": "way/729833062"
+ },
+ {
+  "name": "Zeynep Hanım Çeşmesi",
+  "district": "Kartal",
+  "type": "Çeşme",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Kartal ilçesinde yer alan çeşme.",
+  "mapQuery": "Zeynep Hanım Çeşmesi, Kartal, İstanbul",
+  "osm": "node/9813018692"
+ },
+ {
+  "name": "Ötenbayır Tepesi",
+  "district": "Kartal",
+  "type": "Doğa",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Kartal ilçesinde yer alan doğa.",
+  "mapQuery": "Ötenbayır Tepesi, Kartal, İstanbul",
+  "osm": "node/8667074379"
+ },
+ {
+  "name": "Üçüz Tepesi",
+  "district": "Kartal",
+  "type": "Doğa",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Kartal ilçesinde yer alan doğa.",
+  "mapQuery": "Üçüz Tepesi, Kartal, İstanbul",
+  "osm": "node/8667074380"
+ }
+]

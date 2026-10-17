@@ -1,0 +1,68 @@
+[
+ {
+  "name": "Ali Paşa Su Kemeri",
+  "district": "Bayrampaşa",
+  "type": "Tarihî yer",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Bayrampaşa ilçesinde yer alan tarihî yer.",
+  "mapQuery": "Ali Paşa Su Kemeri, Bayrampaşa, İstanbul",
+  "osm": "way/509838983"
+ },
+ {
+  "name": "Altıntepsi Su Terazisi",
+  "district": "Bayrampaşa",
+  "type": "Arkeolojik alan / Kalıntı",
+  "era": "ant",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Bayrampaşa ilçesinde yer alan arkeolojik alan / kalıntı.",
+  "mapQuery": "Altıntepsi Su Terazisi, Bayrampaşa, İstanbul",
+  "osm": "node/6822252690"
+ },
+ {
+  "name": "Fatih Sultan Mehmet Heykeli",
+  "district": "Bayrampaşa",
+  "type": "Anıt",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Bayrampaşa ilçesinde yer alan anıt.",
+  "mapQuery": "Fatih Sultan Mehmet Heykeli, Bayrampaşa, İstanbul",
+  "osm": "node/5293044482"
+ },
+ {
+  "name": "Sadrazam Bahir Mustafa Paşa Çeşmesi",
+  "district": "Bayrampaşa",
+  "type": "Tarihî yer",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Bayrampaşa ilçesinde yer alan tarihî yer.",
+  "mapQuery": "Sadrazam Bahir Mustafa Paşa Çeşmesi, Bayrampaşa, İstanbul",
+  "osm": "node/6834315797"
+ },
+ {
+  "name": "Turkuazoo",
+  "district": "Bayrampaşa",
+  "type": "Gezi noktası",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Bayrampaşa ilçesinde yer alan gezi noktası.",
+  "mapQuery": "Turkuazoo, Bayrampaşa, İstanbul",
+  "osm": "node/4966376521"
+ },
+ {
+  "name": "Üsküp Saat Kulesi",
+  "district": "Bayrampaşa",
+  "type": "Anıt",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Bayrampaşa ilçesinde yer alan anıt.",
+  "mapQuery": "Üsküp Saat Kulesi, Bayrampaşa, İstanbul",
+  "osm": "node/10029601210"
+ }
+]

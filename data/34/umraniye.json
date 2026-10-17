@@ -1,0 +1,112 @@
+[
+ {
+  "name": "Atatürk Anıtı",
+  "district": "Ümraniye",
+  "type": "Tarihî yer",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Ümraniye ilçesinde yer alan tarihî yer.",
+  "mapQuery": "Atatürk Anıtı, Ümraniye, İstanbul",
+  "osm": "node/9653635280"
+ },
+ {
+  "name": "Baz İstasyonu",
+  "district": "Ümraniye",
+  "type": "Kule",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Ümraniye ilçesinde yer alan kule.",
+  "mapQuery": "Baz İstasyonu, Ümraniye, İstanbul",
+  "osm": "node/10159879511"
+ },
+ {
+  "name": "Beylik Tepesi",
+  "district": "Ümraniye",
+  "type": "Doğa",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Ümraniye ilçesinde yer alan doğa.",
+  "mapQuery": "Beylik Tepesi, Ümraniye, İstanbul",
+  "osm": "node/11005991136"
+ },
+ {
+  "name": "Cevherağa Camii",
+  "district": "Ümraniye",
+  "type": "Cami",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Ümraniye ilçesinde yer alan cami.",
+  "mapQuery": "Cevherağa Camii, Ümraniye, İstanbul",
+  "osm": "way/305839896"
+ },
+ {
+  "name": "Kibele",
+  "district": "Ümraniye",
+  "type": "Tarihî yer",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Ümraniye ilçesinde yer alan tarihî yer.",
+  "mapQuery": "Kibele, Ümraniye, İstanbul",
+  "osm": "way/1356687493"
+ },
+ {
+  "name": "Viyadük-32",
+  "district": "Ümraniye",
+  "type": "Köprü",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Ümraniye ilçesinde yer alan köprü.",
+  "mapQuery": "Viyadük-32, Ümraniye, İstanbul",
+  "osm": "way/1470365369"
+ },
+ {
+  "name": "Viyadük-34",
+  "district": "Ümraniye",
+  "type": "Köprü",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Ümraniye ilçesinde yer alan köprü.",
+  "mapQuery": "Viyadük-34, Ümraniye, İstanbul",
+  "osm": "way/1470365368"
+ },
+ {
+  "name": "Çiftekaynak Tepesi",
+  "district": "Ümraniye",
+  "type": "Doğa",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Ümraniye ilçesinde yer alan doğa.",
+  "mapQuery": "Çiftekaynak Tepesi, Ümraniye, İstanbul",
+  "osm": "node/11005991135"
+ },
+ {
+  "name": "Ümraniye Saat Kulesi",
+  "district": "Ümraniye",
+  "type": "Kule",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Ümraniye ilçesinde yer alan kule.",
+  "mapQuery": "Ümraniye Saat Kulesi, Ümraniye, İstanbul",
+  "osm": "node/13598008011"
+ },
+ {
+  "name": "İMES Köprüsü",
+  "district": "Ümraniye",
+  "type": "Köprü",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Ümraniye ilçesinde yer alan köprü.",
+  "mapQuery": "İMES Köprüsü, Ümraniye, İstanbul",
+  "osm": "way/1285536811"
+ }
+]

@@ -1,0 +1,145 @@
+[
+ {
+  "name": "1999 Depremi Anıtı",
+  "district": "Avcılar",
+  "type": "Anıt",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Avcılar ilçesinde yer alan anıt.",
+  "mapQuery": "1999 Depremi Anıtı, Avcılar, İstanbul",
+  "osm": "node/14007467626"
+ },
+ {
+  "name": "85. Yıl Heykeli",
+  "district": "Avcılar",
+  "type": "Tarihî yer",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Avcılar ilçesinde yer alan tarihî yer.",
+  "mapQuery": "85. Yıl Heykeli, Avcılar, İstanbul",
+  "osm": "node/11057686617"
+ },
+ {
+  "name": "Arkeopark",
+  "district": "Avcılar",
+  "type": "Arkeolojik alan / Kalıntı",
+  "era": "ant",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Avcılar ilçesinde yer alan arkeolojik alan / kalıntı.",
+  "mapQuery": "Arkeopark, Avcılar, İstanbul",
+  "osm": "way/1550310353"
+ },
+ {
+  "name": "Atatürk Evi Müzesi",
+  "district": "Avcılar",
+  "type": "Müze",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Avcılar ilçesinde yer alan müze.",
+  "mapQuery": "Atatürk Evi Müzesi, Avcılar, İstanbul",
+  "osm": "way/1183800508"
+ },
+ {
+  "name": "Bathonea Arkeolojik Kazı Alanı",
+  "district": "Avcılar",
+  "type": "Gezi noktası",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Avcılar ilçesinde yer alan gezi noktası.",
+  "mapQuery": "Bathonea Arkeolojik Kazı Alanı, Avcılar, İstanbul",
+  "osm": "node/9056446817"
+ },
+ {
+  "name": "Bathonea Kayıp Şehrinin Kalıntıları",
+  "district": "Avcılar",
+  "type": "Arkeolojik alan / Kalıntı",
+  "era": "ant",
+  "period": "C2 BC",
+  "founder": "Bilinmiyor",
+  "story": "Avcılar ilçesinde yer alan arkeolojik alan / kalıntı.",
+  "mapQuery": "Bathonea Kayıp Şehrinin Kalıntıları, Avcılar, İstanbul",
+  "osm": "way/177970926"
+ },
+ {
+  "name": "Bathonea Limanı Arkeolojik Alanı",
+  "district": "Avcılar",
+  "type": "Arkeolojik alan / Kalıntı",
+  "era": "ant",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Avcılar ilçesinde yer alan arkeolojik alan / kalıntı.",
+  "mapQuery": "Bathonea Limanı Arkeolojik Alanı, Avcılar, İstanbul",
+  "osm": "way/177970923"
+ },
+ {
+  "name": "Denizköşkler Sahili",
+  "district": "Avcılar",
+  "type": "Plaj",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Avcılar ilçesinde yer alan plaj.",
+  "mapQuery": "Denizköşkler Sahili, Avcılar, İstanbul",
+  "osm": "way/1186191837"
+ },
+ {
+  "name": "Melantias",
+  "district": "Avcılar",
+  "type": "Arkeolojik alan / Kalıntı",
+  "era": "ant",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Avcılar ilçesinde yer alan arkeolojik alan / kalıntı.",
+  "mapQuery": "Melantias, Avcılar, İstanbul",
+  "osm": "node/6327118881"
+ },
+ {
+  "name": "Spradon",
+  "district": "Avcılar",
+  "type": "Arkeolojik alan / Kalıntı",
+  "era": "ant",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Avcılar ilçesinde yer alan arkeolojik alan / kalıntı.",
+  "mapQuery": "Spradon, Avcılar, İstanbul",
+  "osm": "node/6398329629"
+ },
+ {
+  "name": "Zamran Software Web Tasarım Hizmetleri",
+  "district": "Avcılar",
+  "type": "Gezi noktası",
+  "era": "rep",
+  "period": "2018.01.10",
+  "founder": "Bilinmiyor",
+  "story": "Avcılar ilçesinde yer alan gezi noktası.",
+  "mapQuery": "Zamran Software Web Tasarım Hizmetleri, Avcılar, İstanbul",
+  "osm": "node/8442630599"
+ },
+ {
+  "name": "İstanbul Robot Müzesi",
+  "district": "Avcılar",
+  "type": "Müze",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Avcılar ilçesinde yer alan müze.",
+  "mapQuery": "İstanbul Robot Müzesi, Avcılar, İstanbul",
+  "osm": "node/12395478630"
+ },
+ {
+  "name": "Şişekumları Tepesi",
+  "district": "Avcılar",
+  "type": "Doğa",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Avcılar ilçesinde yer alan doğa.",
+  "mapQuery": "Şişekumları Tepesi, Avcılar, İstanbul",
+  "osm": "node/10948945008"
+ }
+]

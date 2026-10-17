@@ -1,0 +1,200 @@
+[
+ {
+  "name": "Ağva Feneri",
+  "district": "Şile",
+  "type": "Deniz feneri",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Şile ilçesinde yer alan deniz feneri.",
+  "mapQuery": "Ağva Feneri, Şile, İstanbul",
+  "osm": "node/12051923470"
+ },
+ {
+  "name": "Ağva Çelebi Ahmet Camii",
+  "district": "Şile",
+  "type": "Cami",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Şile ilçesinde yer alan cami.",
+  "mapQuery": "Ağva Çelebi Ahmet Camii, Şile, İstanbul",
+  "osm": "way/309193695"
+ },
+ {
+  "name": "Baz İstasyonu",
+  "district": "Şile",
+  "type": "Kule",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Şile ilçesinde yer alan kule.",
+  "mapQuery": "Baz İstasyonu, Şile, İstanbul",
+  "osm": "node/12810173206"
+ },
+ {
+  "name": "Deniz Feneri",
+  "district": "Şile",
+  "type": "Deniz feneri",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Şile ilçesinde yer alan deniz feneri.",
+  "mapQuery": "Deniz Feneri, Şile, İstanbul",
+  "osm": "node/6055373732"
+ },
+ {
+  "name": "Doğanyuvası Yangın Gözetleme Kulesi",
+  "district": "Şile",
+  "type": "Kule",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Şile ilçesinde yer alan kule.",
+  "mapQuery": "Doğanyuvası Yangın Gözetleme Kulesi, Şile, İstanbul",
+  "osm": "node/8982712463"
+ },
+ {
+  "name": "Elephant",
+  "district": "Şile",
+  "type": "Gezi noktası",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Şile ilçesinde yer alan gezi noktası.",
+  "mapQuery": "Elephant, Şile, İstanbul",
+  "osm": "node/11919753137"
+ },
+ {
+  "name": "Eski Ağva Feneri",
+  "district": "Şile",
+  "type": "Deniz feneri",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Şile ilçesinde yer alan deniz feneri.",
+  "mapQuery": "Eski Ağva Feneri, Şile, İstanbul",
+  "osm": "node/13605227261"
+ },
+ {
+  "name": "Gürgencik Tepesi",
+  "district": "Şile",
+  "type": "Doğa",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Şile ilçesinde yer alan doğa.",
+  "mapQuery": "Gürgencik Tepesi, Şile, İstanbul",
+  "osm": "node/2016270332"
+ },
+ {
+  "name": "Hacı Osman Ağa Camii",
+  "district": "Şile",
+  "type": "Cami",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Şile ilçesinde yer alan cami.",
+  "mapQuery": "Hacı Osman Ağa Camii, Şile, İstanbul",
+  "osm": "way/1242819304"
+ },
+ {
+  "name": "Karaburun Yangın Gözetleme Kulesi",
+  "district": "Şile",
+  "type": "Kule",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Şile ilçesinde yer alan kule.",
+  "mapQuery": "Karaburun Yangın Gözetleme Kulesi, Şile, İstanbul",
+  "osm": "node/8982712465"
+ },
+ {
+  "name": "Kurfalı Sahil Plajı",
+  "district": "Şile",
+  "type": "Plaj",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Şile ilçesinde yer alan plaj.",
+  "mapQuery": "Kurfalı Sahil Plajı, Şile, İstanbul",
+  "osm": "way/305253202"
+ },
+ {
+  "name": "Mısırlı Hatice Hanım Çeşmesi",
+  "district": "Şile",
+  "type": "Çeşme",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Şile ilçesinde yer alan çeşme.",
+  "mapQuery": "Mısırlı Hatice Hanım Çeşmesi, Şile, İstanbul",
+  "osm": "node/12149919696"
+ },
+ {
+  "name": "Plaj",
+  "district": "Şile",
+  "type": "Plaj",
+  "era": "nat",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Şile ilçesinde yer alan plaj.",
+  "mapQuery": "Plaj, Şile, İstanbul",
+  "osm": "way/630205117"
+ },
+ {
+  "name": "Sarıkavak Kalesi",
+  "district": "Şile",
+  "type": "Hisar / Kale",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Şile ilçesinde yer alan hisar / kale.",
+  "mapQuery": "Sarıkavak Kalesi, Şile, İstanbul",
+  "osm": "node/7816988589"
+ },
+ {
+  "name": "Tarihi Hamam",
+  "district": "Şile",
+  "type": "Arkeolojik alan / Kalıntı",
+  "era": "ant",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Şile ilçesinde yer alan arkeolojik alan / kalıntı.",
+  "mapQuery": "Tarihi Hamam, Şile, İstanbul",
+  "osm": "node/6345489656"
+ },
+ {
+  "name": "Tavşantepe Yangın Gözetleme Kulesi",
+  "district": "Şile",
+  "type": "Kule",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Şile ilçesinde yer alan kule.",
+  "mapQuery": "Tavşantepe Yangın Gözetleme Kulesi, Şile, İstanbul",
+  "osm": "node/8982712464"
+ },
+ {
+  "name": "Şile Feneri",
+  "district": "Şile",
+  "type": "Deniz feneri",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Şile ilçesinde yer alan deniz feneri.",
+  "mapQuery": "Şile Feneri, Şile, İstanbul",
+  "osm": "way/693889618"
+ },
+ {
+  "name": "Şile Kalesi",
+  "district": "Şile",
+  "type": "Hisar / Kale",
+  "era": "",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "story": "Şile ilçesinde yer alan hisar / kale.",
+  "mapQuery": "Şile Kalesi, Şile, İstanbul",
+  "osm": "way/643467902"
+ }
+]
