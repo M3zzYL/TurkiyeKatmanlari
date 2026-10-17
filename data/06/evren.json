@@ -1,0 +1,53 @@
+[
+ {
+  "name": "Hirfanlı Baraj Gölü",
+  "district": "Evren",
+  "type": "Doğal Alan / Göl",
+  "era": "nature",
+  "period": "1959'da işletmeye açıldı",
+  "founder": "Devlet Su İşleri (DSİ)",
+  "fee": "Ücretsiz",
+  "hours": "7/24 Açık",
+  "story": "Kızılırmak üzerinde kurulan devasa hidroelektrik barajının oluşturduğu bu göl, Evren ilçesinin 'sahil kasabası' kimliği kazanmasını sağlamıştır. Kumsal plajları, yelken gibi su sporları ve olta balıkçılığı imkanlarıyla Ankaralılar tarafından 'İç Anadolu'nun denizi' olarak anılır. Baraj, Kızılırmak üzerindeki enerji üretimi ve sulama yatırımlarının erken örneklerinden biridir. Göl çevresi yaz aylarında kumsal ve su sporları ile hareketlenirken, kış aylarında sakin bir kasaba görünümü kazanır. Yüzme güvenliği için yerel uyarıları dikkate almak önemlidir.",
+  "mapQuery": "Hirfanlı Baraj Gölü, Evren, Ankara",
+  "img": "images/06/Evren/Hirfanl%C4%B1%20Baraj%20G%C3%B6l%C3%BC.jpg",
+  "rank": 34
+ },
+ {
+  "name": "Evren Seyir Tepesi",
+  "district": "Evren",
+  "type": "Seyir Terası",
+  "era": "s6",
+  "period": "Modern Dönem",
+  "founder": "Evren Belediyesi",
+  "fee": "Ücretsiz",
+  "hours": "7/24 Açık",
+  "story": "Hirfanlı Baraj Gölü'nün uçsuz bucaksız maviliğini ve küçük ilçe merkezini kuşbakışı izleme imkanı sunan yüksek rakımlı tepe. Özellikle gün batımında suların kızıla boyandığı anlarda, fotoğrafçıların ve doğa severlerin ilçedeki ilk uğrak noktasıdır. Tepeden göl ve ilçe merkezini bir arada görmek, baraj sularının bölgeyi nasıl biçimlendirdiğini kavramak için iyi bir fırsattır. Gün batımında sulara vuran renkler fotoğraf için ideal ışık sunar; rüzgâr nedeniyle kat giyinmek yararlıdır.",
+  "mapQuery": "Evren Seyir Tepesi, Ankara"
+ },
+ {
+  "name": "Evren Mesire Alanı",
+  "district": "Evren",
+  "type": "Doğal Alan / Park",
+  "era": "s6",
+  "period": "Modern Dönem düzenlemesi",
+  "founder": "Evren Belediyesi",
+  "fee": "Ücretsiz",
+  "hours": "7/24 Açık",
+  "story": "Doğrudan göl kenarına konumlanmış, gölge veren çam ağaçları arasında yer alan geniş rekreasyon alanı. Ankara'nın kalabalığından uzakta hafta sonları piknik yapmak, temiz göl havası almak ve çocuklarıyla vakit geçirmek isteyenler için huzurlu bir kaçış noktasıdır. Çam ağaçlarının gölgesindeki alan, göl kıyısına yakınlığı nedeniyle hafta sonu pikniği ve çocuklarla vakit geçirmek için uygundur. Ateş yakma ve atık yönetimi konusunda mesire alanı kurallarına uyulması beklenir.",
+  "mapQuery": "Evren Mesire Alanı, Ankara"
+ },
+ {
+  "name": "Semizbağı Höyük",
+  "district": "Evren",
+  "type": "Höyük",
+  "era": "s1",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "fee": "Ücretsiz",
+  "hours": "7/24 Açık",
+  "story": "Evren'in açık bozkır manzarasında yükselen alçak bir höyük; Anadolu'da höyükler, yüzyıllar boyunca aynı yerde üst üste kurulan yerleşimlerin birikmesiyle oluşur ve her katman farklı bir dönemin izini taşır. Semizbağı Höyük'ün hangi dönemlere ait olduğu, kazı yapılıp yapılmadığı ve buluntuları hakkında kesin dönemi bilinmiyor. Höyüğün üzerinde yürürken yüzeydeki seramik ya da taş buluntulara dokunulmamalı, olduğu yerde bırakılmalıdır. Yazın sıcak ve gölgesiz olduğundan su ve şapka almak, otlar nedeniyle uzun pantolon giymek iyi olur.",
+  "mapQuery": "Semizbağı Höyük, Evren, Ankara",
+  "img": "images/06/Evren/Semizba%C4%9F%C4%B1%20H%C3%B6y%C3%BCk.jpg"
+ }
+]

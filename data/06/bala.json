@@ -1,0 +1,81 @@
+[
+ {
+  "name": "Beynam Atatürk Ormanları",
+  "district": "Bala",
+  "type": "Doğal alan",
+  "era": "s6",
+  "period": "1966'dan beri koruma altında",
+  "founder": "Adını, Atatürk'ün Ankara'ya gelmeden önce Bala'da konaklamasından alır",
+  "fee": "Araç Ücretli",
+  "hours": "08:00 - 20:00",
+  "story": "İç Anadolu bozkırının ortasında ~400 hektarlık bir karaçam vahası. 419 farklı bitki türünü barındırıyor; içindeki 'Beynam Atatürk ve Kültür Evi', Atatürk'ün konakladığı yerin restore edilmiş hali. Ormanda Roma dönemine ait bir hamam kalıntısı ve MS 900'lerde işletilmiş eski bir bakır madeni izleri de bulunuyor. Bozkır ortasındaki yapay orman, ağaçlandırma çabalarının uzun vadeli sonuçlarını gösteren örnek bir alandır. Atatürk Kültür Evi, Cumhuriyet tarihine dair hatıraları barındırırken Roma dönemi hamamı ve eski maden izleri ormanı arkeolojik açıdan da ilginç kılar. Orman alanlarında yangın kurallarına uymak önemlidir.",
+  "mapQuery": "Beynam Atatürk Ormanı, Bala, Ankara",
+  "img": "images/06/Bala/Beynam%20Atat%C3%BCrk%20Ormanlar%C4%B1.jpg",
+  "rank": 33
+ },
+ {
+  "name": "Aliassos (Aliasos) Antik Kenti",
+  "district": "Bala",
+  "type": "Antik kent",
+  "era": "s3",
+  "period": "MÖ 3. yüzyıldan itibaren (Galat dönemi), Roma'da da kullanılmış",
+  "founder": "Orta Anadolu'ya yerleşen Galat topluluklarınca kurulmuş",
+  "fee": "Ücretsiz",
+  "hours": "7/24 Açık",
+  "story": "Bala'nın tek antik kenti, Afşar Mahallesi sınırlarında yer alıyor. Galatlar tarafından kurulduğu düşünülen yerleşim, Roma döneminde bir 'Haç Yolu' güzergâhı üzerinde bulunduğu için kentte dönemin mil taşlarına da rastlanmış. Mil taşları, Roma yollarında mesafeyi ve imparatorluk yönetimini belirten işaretlerdi; bu yüzden bir kentte bulunmaları o yolun düzenli biçimde kullanıldığını gösterir. Galat yerleşimi ile Roma yol ağının kesiştiği bu alan, Anadolu'daki kültürel katmanlaşmanın nadir örneklerinden biri olarak değerlendirilir.",
+  "mapQuery": "Aliassos Antik Kenti, Afşar, Bala, Ankara",
+  "img": "images/06/Bala/Aliassos%20%28Aliasos%29%20Antik%20Kenti.jpg"
+ },
+ {
+  "name": "Kesikköprü",
+  "district": "Bala",
+  "type": "Tarihi köprü",
+  "era": "s4",
+  "period": "1251",
+  "founder": "Anadolu Selçuklu Devleti",
+  "fee": "Ücretsiz",
+  "hours": "7/24 Açık",
+  "story": "Kızılırmak üzerine 1251'de Selçuklular tarafından inşa edilmiş, 320 metre uzunluğunda, 13 gözlü ve sivri kemerli tarihi köprü. Yüzyıllar boyunca farklı dönemlerde onarılarak günümüze kadar ayakta kalmış ve halen kullanılabiliyor. 13 gözlü ve 320 metrelik uzunluğuyla köprü, Selçuklu mühendisliğinin Anadolu'daki en uzun köprülerinden biri olarak bilinir. Kızılırmak üzerindeki bu geçit, yüzyıllarca Ankara–Kırşehir arasındaki ticaret ve ordu yollarının önemli bir noktasıydı. Köprünün yanındaki baraj ve çevresindeki manzara ile birlikte gezilebilir. Köprünün konumu, Kızılırmak üzerindeki geçişin Orta Anadolu'daki doğu–batı ticaret ve ordu yolları için stratejik bir nokta olduğunu düşündürür. Yüzyıllar boyunca yapılan onarımlar, yapının toplumsal ve ekonomik önemini koruduğunu gösterir.",
+  "mapQuery": "Kesikköprü, Bala, Ankara",
+  "img": "images/06/Bala/Kesikk%C3%B6pr%C3%BC.jpg"
+ },
+ {
+  "name": "Kesikköprü Barajı",
+  "district": "Bala",
+  "type": "Baraj / gölet",
+  "era": "s6",
+  "period": "1959-1966",
+  "founder": "DSİ (Devlet Su İşleri)",
+  "fee": "Ücretsiz",
+  "hours": "7/24 Açık",
+  "story": "Kızılırmak üzerinde enerji üretimi ve sulama amacıyla inşa edilen baraj; 49 metre yüksekliğinde, yaklaşık 95 milyon m³ su hacmine ve 6,5 km²'lik göl alanına sahip. Çevresindeki dinlenme kampıyla yüzme, olta balıkçılığı ve piknik için tercih ediliyor. Barajın hem enerji üretimi hem sulama işlevi, Kızılırmak havzasının ekonomik önemini yansıtır. Çevresindeki dinlenme kampı yaz aylarında piknik ve olta balıkçılığı için kullanılır; su seviyesi ve kıyı güvenliği için yerel duyurulara bakılmalıdır.",
+  "mapQuery": "Kesikköprü Barajı, Bala, Ankara",
+  "img": "images/06/Bala/Kesikk%C3%B6pr%C3%BC%20Baraj%C4%B1.jpg"
+ },
+ {
+  "name": "Dut Dede Türbesi",
+  "district": "Bala",
+  "type": "Türbe",
+  "era": "s5",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "fee": "Ücretsiz",
+  "hours": "Gündüz Saatleri",
+  "story": "Bala'da küçük, kiremit çatılı ve ahşap saçaklı bir yapı olan Dut Dede Türbesi, yanındaki camiyle birlikte kasaba halkının ziyaret ettiği sade bir mekân. Halk arasında 'Dut Dede' diye anılan zatın kim olduğu ve ne zaman yaşadığı konusunda güvenilir bir kayıt bulunmuyor; adının dut ağacıyla ilgili bir yöre anlatısına dayanıyor olması mümkün, ancak bu doğrulanmış değil. Çevresi düzenli ve sakin; ziyaretçilerin türbenin düzenine ve çevredeki camiye saygı göstermesi, ibadet saatlerine dikkat etmesi gerekir.",
+  "mapQuery": "Dut Dede Türbesi, Bala, Ankara",
+  "img": "images/06/Bala/Dut%20Dede%20T%C3%BCrbesi.jpg"
+ },
+ {
+  "name": "Çatalören Köprüsü",
+  "district": "Bala",
+  "type": "Tarihi Köprü",
+  "era": "s5",
+  "period": "Bilinmiyor",
+  "founder": "Bilinmiyor",
+  "fee": "Ücretsiz",
+  "hours": "7/24 Açık",
+  "story": "Bala'nın Çatalören yöresinde, durgun bir su yüzeyi, sazlıklar ve kayalık yamaçların arasında uzanan köprü, kasabanın tarihî yol bağlantılarından birini simgeliyor. Köprünün hangi dönemde ve kimin tarafından yapıldığı konusunda kesin dönemi bilinmiyor. Kıyı boyunca kısa bir yürüyüş yapabilir, sakin sabah ve akşam saatlerinde kuşları ve manzarayı izleyebilirsiniz. Su kenarında zemin kaygan olabilir; çocuklarla gidiyorsanız dikkatli olmak gerekir.",
+  "mapQuery": "Çatalören Köprüsü, Bala, Ankara",
+  "img": "images/06/Bala/%C3%87atal%C3%B6ren%20K%C3%B6pr%C3%BCs%C3%BC.jpg"
+ }
+]
