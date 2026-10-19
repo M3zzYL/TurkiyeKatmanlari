@@ -26,6 +26,7 @@ main{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);gap:16px;
 svg{width:100%;height:auto;max-height:72vh;display:block}
 svg path{stroke:var(--surface);stroke-width:.6;vector-effect:non-scaling-stroke;transition:filter .15s}
 svg path.on{cursor:pointer}svg path.on:hover{filter:brightness(1.12);stroke:var(--gold);stroke-width:1.6}
+svg g.on{cursor:pointer}svg g.on:hover{filter:brightness(1.15)}
 svg path.sel{stroke:var(--maroon);stroke-width:2.2}
 svg text{font-size:var(--fs,9px);fill:var(--ink);pointer-events:none;text-anchor:middle;paint-order:stroke;stroke:var(--surface);stroke-width:2.5px}
 .hint{color:var(--muted);font-size:.85rem;padding:6px 8px}
@@ -62,7 +63,7 @@ footer{text-align:center;color:var(--muted);font-size:.78rem;padding:18px}
   <section class="card" id="mapbox"><svg id="map" role="img" aria-label="Harita"></svg><div class="hint" id="hint"></div></section>
   <section class="card" id="panel"></section>
 </main>
-<footer>Harita ve yer verisi: © OpenStreetMap katkıda bulunanları (ODbL) · Özetler: Vikipedi (CC BY-SA 4.0)</footer>
+<footer>Sınırlar: geoBoundaries (CC BY 4.0) · Yer verisi: © OpenStreetMap katkıda bulunanları (ODbL) · Özetler: Vikipedi (CC BY-SA 4.0)</footer>
 <script>
 "use strict";
 // Verisi hazır iller (plaka: ad). Yeni il eklenince buraya eklenir.
@@ -71,6 +72,8 @@ const ERA={ant:["Antik–Bizans","s3"],ott:["Osmanlı","s5"],rep:["Cumhuriyet","
  s1:["Hitit–Frig","s1"],s2:["Galat","s2"],s3:["Roma","s3"],s4:["Selçuklu","s4"],s5:["Osmanlı","s5"],s6:["Cumhuriyet","s6"],nature:["Doğa","nature"]};
 const $=s=>document.querySelector(s), SVG="http://www.w3.org/2000/svg";
 const TRM={"ç":"c","ğ":"g","ı":"i","ö":"o","ş":"s","ü":"u","â":"a","î":"i","û":"u"};
+const ALIAS={princeislands:"adalar"};
+const key2=s=>{const k=slug(s);return ALIAS[k]||k};
 const slug=s=>s.toLocaleLowerCase("tr").replace(/[çğıöşüâîû]/g,c=>TRM[c]).replace(/[^a-z0-9]/g,"");
 const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const J=u=>fetch(u).then(r=>{if(!r.ok)throw new Error(u);return r.json()});
@@ -129,6 +132,7 @@ function nav(){
 }
 function viewTR(){
   S.il=null;S.ilData=null;S.district=null;nav();
+  if(S.trIlce){drawTRilce()}else
   draw(S.geoIl,{style:f=>{const ok=READY[f.k];
       if(!ok)return{fill:"var(--none)",tip:f.n+" (yakında)"};
       const tot=S.meta?.[f.k]||0,r=tot?Math.min(1,countSeen(f.k)/tot):0;
@@ -138,6 +142,22 @@ function viewTR(){
   const done=Object.keys(READY).map(k=>`<button class="chip" data-k="${k}">${READY[k]}</button>`).join("");
   $("#panel").innerHTML=`<h2>Türkiye Katmanları</h2><p class="meta">Haritadan ya da aşağıdan bir il seçin. Gezdiğin yerleri işaretledikçe harita yeşile döner.</p><div class="dgrid">${done}</div>`;
   $("#panel").querySelectorAll("[data-k]").forEach(b=>b.onclick=()=>go(b.dataset.k));
+}
+function drawTRilce(){
+  const svg=$("#map"),P=project(S.geoIl);svg.innerHTML="";svg.setAttribute("viewBox",`0 0 ${P.W.toFixed(0)} ${P.H.toFixed(0)}`);
+  const by={};S.geoIl.forEach(f=>(by[f.k]=by[f.k]||[]).push(f));
+  const D=f=>{let d="";f.p.forEach(poly=>poly.forEach(r=>{r.forEach((c,i)=>{const [x,y]=P.pt(c);d+=(i?"L":"M")+x.toFixed(1)+" "+y.toFixed(1)});d+="Z"}));return d};
+  Object.keys(by).sort().forEach(k=>{
+    const ok=READY[k],tot=S.meta[k]||0,sn=countSeen(k),r=tot?Math.min(1,sn/tot):0,fill=ok?mix(.15+r*.85):"var(--none)";
+    const g=document.createElementNS(SVG,"g");
+    [["var(--surface)",2.6],[fill,1.1]].forEach(([c,w])=>by[k].forEach(f=>{
+      const p=document.createElementNS(SVG,"path");p.setAttribute("d",D(f));p.setAttribute("fill-rule","evenodd");
+      p.style.fill=fill;p.style.stroke=c;p.style.strokeWidth=w;p.style.vectorEffect="non-scaling-stroke";g.appendChild(p)}));
+    const nm=by[k][0].i||("Plaka "+k),t=document.createElementNS(SVG,"title");
+    t.textContent=ok?`${nm}: ${sn} / ${tot||"?"} yer`:nm+" (yakında)";g.appendChild(t);
+    if(ok){g.classList.add("on");g.onclick=()=>go(k)}
+    svg.appendChild(g);
+  });
 }
 async function go(k){
   if(!k)return viewTR();
@@ -150,8 +170,9 @@ async function go(k){
 function pick(d){S.district=d;S.limit=60;nav();drawIl();panel()}
 function drawIl(){
   const dd={};S.ilData.districts.forEach(x=>dd[slug(x.n)]=x);
+  const feats=S.geoDist&&S.geoDist.map(f=>{const x=dd[key2(f.n)];return x?{...f,n:x.n}:f});
   if(!S.geoDist){$("#map").innerHTML="";$("#hint").textContent="Bu ilin ilçe sınırları henüz eklenmedi; ilçeleri sağdan seçebilirsiniz.";return}
-  draw(S.geoDist,{labels:true,style:f=>{const x=dd[slug(f.n)];
+  draw(feats,{labels:true,style:f=>{const x=dd[slug(f.n)];
       if(!x)return{fill:"var(--none)",tip:f.n};
       const r=x.c?Math.min(1,countSeen(S.il,x.n)/x.c):0;
       return{fill:mix(.15+r*.85),on:true,sel:S.district===x.n,tip:`${x.n}: ${countSeen(S.il,x.n)} / ${x.c} yer`}},
@@ -191,7 +212,7 @@ function panelList(){
 
 /* ---- açılış ---- */
 (async()=>{
-  try{S.geoIl=(await J("data/geo/il.json")).features}catch(e){$("#panel").innerHTML='<p class="hint">Harita verisi (data/geo/il.json) yüklenemedi.</p>';return}
+  try{try{S.geoIl=(await J("data/geo/turkiye.json")).features;S.trIlce=true}catch(e){S.geoIl=(await J("data/geo/il.json")).features}}catch(e){$("#panel").innerHTML='<p class="hint">Harita verisi (data/geo) yüklenemedi.</p>';return}
   S.meta={};
   await Promise.all(Object.keys(READY).map(k=>J(`data/${k}.json`).then(m=>S.meta[k]=m.districts.reduce((a,d)=>a+(d.c||0),0)).catch(()=>{})));
   viewTR();
